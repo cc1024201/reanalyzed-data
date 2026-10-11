@@ -1,0 +1,544 @@
+{
+ "validation": {
+  "ours": 375,
+  "editor": 396,
+  "by_month": {
+   "1349-01": {
+    "ours": 30,
+    "editor": 31
+   },
+   "1349-02": {
+    "ours": 32,
+    "editor": 35
+   },
+   "1349-03": {
+    "ours": 53,
+    "editor": 60
+   },
+   "1349-04": {
+    "ours": 49,
+    "editor": 53
+   },
+   "1349-05": {
+    "ours": 47,
+    "editor": 48
+   },
+   "1349-06": {
+    "ours": 45,
+    "editor": 46
+   },
+   "1349-07": {
+    "ours": 35,
+    "editor": 37
+   },
+   "1349-08": {
+    "ours": 16,
+    "editor": 16
+   },
+   "1349-09": {
+    "ours": 21,
+    "editor": 23
+   },
+   "1349-10": {
+    "ours": 16,
+    "editor": 16
+   },
+   "1349-11": {
+    "ours": 17,
+    "editor": 17
+   },
+   "1349-12": {
+    "ours": 14,
+    "editor": 14
+   }
+  }
+ },
+ "monthly_1348_09_to_1350_06": {
+  "1348-09": 7,
+  "1348-10": 8,
+  "1348-11": 11,
+  "1348-12": 7,
+  "1349-01": 30,
+  "1349-02": 32,
+  "1349-03": 53,
+  "1349-04": 49,
+  "1349-05": 47,
+  "1349-06": 45,
+  "1349-07": 35,
+  "1349-08": 16,
+  "1349-09": 21,
+  "1349-10": 16,
+  "1349-11": 17,
+  "1349-12": 14,
+  "1350-01": 7,
+  "1350-02": 8,
+  "1350-03": 8,
+  "1350-04": 11,
+  "1350-05": 2,
+  "1350-06": 9
+ },
+ "n_rows_used": 1719,
+ "per_year": {
+  "1330": 12,
+  "1331": 23,
+  "1332": 21,
+  "1333": 47,
+  "1334": 52,
+  "1335": 42,
+  "1336": 51,
+  "1337": 23,
+  "1338": 37,
+  "1339": 30,
+  "1340": 18,
+  "1341": 37,
+  "1342": 49,
+  "1343": 31,
+  "1344": 26,
+  "1345": 30,
+  "1346": 23,
+  "1347": 24,
+  "1348": 58,
+  "1349": 375,
+  "1350": 75,
+  "1351": 56,
+  "1352": 34,
+  "1353": 29,
+  "1354": 30,
+  "1355": 17,
+  "1356": 20,
+  "1357": 18,
+  "1358": 23,
+  "1359": 22,
+  "1360": 29,
+  "1361": 70,
+  "1362": 138,
+  "1363": 52,
+  "1364": 15,
+  "1365": 16,
+  "1366": 19,
+  "1367": 27,
+  "1368": 20
+ },
+ "baseline_1340_47_mean": 29.75,
+ "cause_stated": {
+  "1340-44": {
+   "n": 161,
+   "heading": 38,
+   "any_reason": 43
+  },
+  "1345-48H1": {
+   "n": 92,
+   "heading": 41,
+   "any_reason": 42
+  },
+  "1349": {
+   "n": 375,
+   "heading": 26,
+   "any_reason": 28
+  }
+ },
+ "plague_n": 393,
+ "plague_cause_any": {
+  "not stated": 356,
+  "death": 24,
+  "resignation": 12,
+  "exchange": 1
+ },
+ "parish_churches_nov48_dec49": 251,
+ "parish_churches_1349": 245,
+ "repeat_parishes_auto": 44,
+ "parish_church_share_of_1349": {
+  "parish": 302,
+  "all": 375
+ },
+ "first_date_vs_lon": {
+  "rho": -0.311,
+  "p": 4.797925965131664e-07,
+  "n": 251
+ },
+ "median_first_date": {
+  "Cornwall": "1349-06-07",
+  "Devon": "1349-04-08"
+ },
+ "collinearity": {
+  "dist_vs_lon": -0.813,
+  "dist_chudleigh_vs_dist_exeter": 0.939
+ },
+ "first_date_vs_dist": {
+  "rho": 0.357,
+  "p": 5.641159184191181e-09
+ },
+ "partial_lon_given_dist": {
+  "rho": -0.047,
+  "p": 0.4557498222446267
+ },
+ "partial_dist_given_lon": {
+  "rho": 0.169,
+  "p": 0.007260587825129786
+ },
+ "devon_only": {
+  "n": 179,
+  "lon": -0.183,
+  "lon_p": 0.01427347974806634,
+  "partial_lon_given_dist": {
+   "rho": -0.086,
+   "p": 0.25314127277888654
+  }
+ },
+ "median_days_by_band_county": [
+  {
+   "band": "0-20",
+   "county": "Devon",
+   "n": 45,
+   "median": "1349-03-06"
+  },
+  {
+   "band": "20-40",
+   "county": "Devon",
+   "n": 63,
+   "median": "1349-04-08"
+  },
+  {
+   "band": "40-60",
+   "county": "Cornwall",
+   "n": 10,
+   "median": "1349-05-03"
+  },
+  {
+   "band": "40-60",
+   "county": "Devon",
+   "n": 52,
+   "median": "1349-05-22"
+  },
+  {
+   "band": "60-80",
+   "county": "Cornwall",
+   "n": 19,
+   "median": "1349-05-28"
+  },
+  {
+   "band": "60-80",
+   "county": "Devon",
+   "n": 19,
+   "median": "1349-05-25"
+  },
+  {
+   "band": "80+",
+   "county": "Cornwall",
+   "n": 39,
+   "median": "1349-06-22"
+  }
+ ],
+ "band_40_80": {
+  "Cornwall": {
+   "n": 29,
+   "median_day": 207.0,
+   "median_date": "1349-05-27"
+  },
+  "Devon": {
+   "n": 71,
+   "median_day": 202.0,
+   "median_date": "1349-05-22"
+  }
+ },
+ "place_of_institution_nov48_dec49": {
+  "Chud": 351,
+  "Clys": 26,
+  "Exet": 2,
+  "Ckud": 1
+ },
+ "county_per_year": {
+  "Cornwall": {
+   "1330": 3,
+   "1331": 8,
+   "1332": 5,
+   "1333": 11,
+   "1334": 17,
+   "1335": 11,
+   "1336": 15,
+   "1337": 5,
+   "1338": 3,
+   "1339": 8,
+   "1340": 6,
+   "1341": 5,
+   "1342": 17,
+   "1343": 8,
+   "1344": 5,
+   "1345": 12,
+   "1346": 5,
+   "1347": 4,
+   "1348": 20,
+   "1349": 94,
+   "1350": 13,
+   "1351": 7,
+   "1352": 12,
+   "1353": 0,
+   "1354": 7,
+   "1355": 2,
+   "1356": 2,
+   "1357": 3,
+   "1358": 4,
+   "1359": 4,
+   "1360": 4,
+   "1361": 13,
+   "1362": 50,
+   "1363": 8,
+   "1364": 2,
+   "1365": 5,
+   "1366": 3,
+   "1367": 4,
+   "1368": 2
+  },
+  "Devon": {
+   "1330": 7,
+   "1331": 13,
+   "1332": 14,
+   "1333": 31,
+   "1334": 28,
+   "1335": 29,
+   "1336": 28,
+   "1337": 15,
+   "1338": 25,
+   "1339": 20,
+   "1340": 9,
+   "1341": 28,
+   "1342": 28,
+   "1343": 22,
+   "1344": 18,
+   "1345": 17,
+   "1346": 15,
+   "1347": 18,
+   "1348": 37,
+   "1349": 254,
+   "1350": 56,
+   "1351": 41,
+   "1352": 19,
+   "1353": 22,
+   "1354": 19,
+   "1355": 13,
+   "1356": 14,
+   "1357": 12,
+   "1358": 17,
+   "1359": 15,
+   "1360": 20,
+   "1361": 49,
+   "1362": 75,
+   "1363": 37,
+   "1364": 12,
+   "1365": 8,
+   "1366": 13,
+   "1367": 18,
+   "1368": 16
+  }
+ },
+ "county_ratio_1349_vs_1340_47": {
+  "Cornwall": 12.1,
+  "Devon": 13.1
+ },
+ "devon_pollen_nearest_parish": [
+  {
+   "site": "AHILL",
+   "name": "Amicombe Hill",
+   "cereal_samples": 2,
+   "nearest": "Lydford | ",
+   "km": 4.3
+  },
+  {
+   "site": "BAM",
+   "name": "Broad Amicombe Hole",
+   "cereal_samples": 8,
+   "nearest": "Lydford | ",
+   "km": 5.4
+  },
+  {
+   "site": "BROADOWN",
+   "name": "Broad Down",
+   "cereal_samples": 2,
+   "nearest": "Lydford | ",
+   "km": 9.6
+  },
+  {
+   "site": "HARES",
+   "name": "Hares Down",
+   "cereal_samples": 2,
+   "nearest": "Rackenford | ",
+   "km": 2.1
+  },
+  {
+   "site": "LARK",
+   "name": "Larkbarrow",
+   "cereal_samples": 0,
+   "nearest": "North Molton | ",
+   "km": 13.2
+  },
+  {
+   "site": "LHOLC",
+   "name": "Long Holcombe",
+   "cereal_samples": 2,
+   "nearest": "North Molton | ",
+   "km": 4.5
+  },
+  {
+   "site": "LOBBS",
+   "name": "Lobbs Bog",
+   "cereal_samples": 6,
+   "nearest": "Rackenford | ",
+   "km": 2.0
+  },
+  {
+   "site": "MIDNORCO",
+   "name": "Middle North Coombe",
+   "cereal_samples": 8,
+   "nearest": "Huntsham | ",
+   "km": 3.7
+  },
+  {
+   "site": "MOLECHAM",
+   "name": "Moles Chamber",
+   "cereal_samples": 0,
+   "nearest": "North Molton | ",
+   "km": 7.6
+  },
+  {
+   "site": "NORTHTWI",
+   "name": "North Twitchen Springs",
+   "cereal_samples": 2,
+   "nearest": "North Molton | ",
+   "km": 5.1
+  },
+  {
+   "site": "RICKSY",
+   "name": "Ricksy Ball",
+   "cereal_samples": 4,
+   "nearest": "North Molton | ",
+   "km": 6.3
+  },
+  {
+   "site": "ROMAN",
+   "name": "Roman Lode",
+   "cereal_samples": 2,
+   "nearest": "North Molton | ",
+   "km": 6.1
+  },
+  {
+   "site": "STONETOR",
+   "name": "Stonetor Brook",
+   "cereal_samples": 2,
+   "nearest": "Throwleigh | ",
+   "km": 4.3
+  },
+  {
+   "site": "WINDMILL",
+   "name": "Windmill Rough",
+   "cereal_samples": 2,
+   "nearest": "Rackenford | ",
+   "km": 1.9
+  },
+  {
+   "site": "WINNEYS",
+   "name": "Winneys Down",
+   "cereal_samples": 4,
+   "nearest": "Throwleigh | ",
+   "km": 8.5
+  }
+ ],
+ "wave_1348_49": {
+  "n": 393,
+  "months": 14,
+  "stated": 34,
+  "death": 24,
+  "rv_n": 310,
+  "rv_stated": 11,
+  "rv_death": 5,
+  "rv_resign": 6
+ },
+ "wave_1361_62": {
+  "n": 161,
+  "months": 10,
+  "stated": 55,
+  "death": 40,
+  "rv_n": 133,
+  "rv_stated": 38,
+  "rv_death": 24,
+  "rv_resign": 14
+ },
+ "between_1352_60": {
+  "n": 222,
+  "months": 108,
+  "stated": 27,
+  "death": 5,
+  "rv_n": 172,
+  "rv_stated": 13,
+  "rv_death": 1,
+  "rv_resign": 11
+ },
+ "pre_1345_48H1": {
+  "n": 92,
+  "months": 42,
+  "stated": 41,
+  "death": 28,
+  "rv_n": 72,
+  "rv_stated": 33,
+  "rv_death": 22,
+  "rv_resign": 11
+ },
+ "second_wave": {
+  "baseline_per_month_1354_60": 1.89,
+  "excess_1348_49": 358.3,
+  "excess_1361_62": 142.1,
+  "ratio": 0.4,
+  "monthly": {
+   "1361-07": 1,
+   "1361-09": 4,
+   "1361-10": 10,
+   "1361-11": 21,
+   "1361-12": 19,
+   "1362-01": 25,
+   "1362-02": 23,
+   "1362-03": 23,
+   "1362-04": 14,
+   "1362-05": 7,
+   "1362-06": 8,
+   "1362-07": 11,
+   "1362-08": 3,
+   "1362-09": 9,
+   "1362-10": 5,
+   "1362-11": 3,
+   "1362-12": 7
+  },
+  "editor_vs_ours": {
+   "1361-10": {
+    "editor": 12,
+    "ours": 10
+   },
+   "1361-11": {
+    "editor": 24,
+    "ours": 21
+   },
+   "1361-12": {
+    "editor": 20,
+    "ours": 19
+   },
+   "1362-01": {
+    "editor": 28,
+    "ours": 25
+   },
+   "1362-02": {
+    "editor": 26,
+    "ours": 23
+   },
+   "1362-03": {
+    "editor": 24,
+    "ours": 23
+   },
+   "1362-04": {
+    "editor": 15,
+    "ours": 14
+   },
+   "1362-05": {
+    "editor": 7,
+    "ours": 7
+   }
+  }
+ }
+}

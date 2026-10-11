@@ -1,0 +1,248 @@
+{
+ "heterogeneity": {
+  "observed": 0.17916335875381248,
+  "perm_mean": 0.08280204929399677,
+  "p": 0.0008,
+  "n_sites": 232
+ },
+ "europe_mean": {
+  "mean": 0.04393875125099544,
+  "lo95": -0.08389215282138923,
+  "hi95": 0.1699679306499828,
+  "frac_sites_down": 0.44396551724137934,
+  "region_weighted": 0.058677214765116795
+ },
+ "regions": [
+  {
+   "region": "Norway",
+   "sites": 4,
+   "delta": -1.058,
+   "vs_sweden_lo": -1.119,
+   "vs_sweden_hi": 0.247,
+   "less_hit_than_sweden": false,
+   "loo_min": -1.414,
+   "loo_max": -0.939,
+   "sign_flips": false
+  },
+  {
+   "region": "Greece",
+   "sites": 9,
+   "delta": -0.71,
+   "vs_sweden_lo": -0.809,
+   "vs_sweden_hi": 0.628,
+   "less_hit_than_sweden": false,
+   "loo_min": -1.004,
+   "loo_max": -0.582,
+   "sign_flips": false
+  },
+  {
+   "region": "Sweden",
+   "sites": 19,
+   "delta": -0.563,
+   "vs_sweden_lo": -0.497,
+   "vs_sweden_hi": 0.503,
+   "less_hit_than_sweden": false,
+   "loo_min": -0.668,
+   "loo_max": -0.498,
+   "sign_flips": false
+  },
+  {
+   "region": "France: Central",
+   "sites": 15,
+   "delta": -0.558,
+   "vs_sweden_lo": -0.634,
+   "vs_sweden_hi": 0.701,
+   "less_hit_than_sweden": false,
+   "loo_min": -0.699,
+   "loo_max": -0.492,
+   "sign_flips": false
+  },
+  {
+   "region": "Italy",
+   "sites": 4,
+   "delta": -0.316,
+   "vs_sweden_lo": -0.78,
+   "vs_sweden_hi": 1.457,
+   "less_hit_than_sweden": false,
+   "loo_min": -0.892,
+   "loo_max": 0.051,
+   "sign_flips": true
+  },
+  {
+   "region": "Portugal: North",
+   "sites": 4,
+   "delta": -0.263,
+   "vs_sweden_lo": -0.313,
+   "vs_sweden_hi": 0.914,
+   "less_hit_than_sweden": false,
+   "loo_min": -0.494,
+   "loo_max": -0.043,
+   "sign_flips": false
+  },
+  {
+   "region": "Germany: South-West",
+   "sites": 17,
+   "delta": -0.217,
+   "vs_sweden_lo": -0.146,
+   "vs_sweden_hi": 0.832,
+   "less_hit_than_sweden": false,
+   "loo_min": -0.319,
+   "loo_max": -0.143,
+   "sign_flips": false
+  },
+  {
+   "region": "Germany: North-West",
+   "sites": 14,
+   "delta": -0.097,
+   "vs_sweden_lo": -0.137,
+   "vs_sweden_hi": 1.064,
+   "less_hit_than_sweden": false,
+   "loo_min": -0.235,
+   "loo_max": 0.017,
+   "sign_flips": true
+  },
+  {
+   "region": "France: Brittany",
+   "sites": 15,
+   "delta": 0.052,
+   "vs_sweden_lo": -0.006,
+   "vs_sweden_hi": 1.23,
+   "less_hit_than_sweden": false,
+   "loo_min": -0.045,
+   "loo_max": 0.157,
+   "sign_flips": true
+  },
+  {
+   "region": "France: Massif Central",
+   "sites": 12,
+   "delta": 0.12,
+   "vs_sweden_lo": -0.009,
+   "vs_sweden_hi": 1.365,
+   "less_hit_than_sweden": false,
+   "loo_min": 0.002,
+   "loo_max": 0.26,
+   "sign_flips": false
+  },
+  {
+   "region": "England: Devon",
+   "sites": 13,
+   "delta": 0.127,
+   "vs_sweden_lo": 0.151,
+   "vs_sweden_hi": 1.224,
+   "less_hit_than_sweden": true,
+   "loo_min": 0.019,
+   "loo_max": 0.255,
+   "sign_flips": false
+  },
+  {
+   "region": "Spain: North",
+   "sites": 7,
+   "delta": 0.288,
+   "vs_sweden_lo": 0.071,
+   "vs_sweden_hi": 1.544,
+   "less_hit_than_sweden": true,
+   "loo_min": 0.12,
+   "loo_max": 0.571,
+   "sign_flips": false
+  },
+  {
+   "region": "Baltic: South",
+   "sites": 28,
+   "delta": 0.289,
+   "vs_sweden_lo": 0.416,
+   "vs_sweden_hi": 1.277,
+   "less_hit_than_sweden": true,
+   "loo_min": 0.252,
+   "loo_max": 0.337,
+   "sign_flips": false
+  },
+  {
+   "region": "France: Savoy",
+   "sites": 7,
+   "delta": 0.316,
+   "vs_sweden_lo": -0.152,
+   "vs_sweden_hi": 1.899,
+   "less_hit_than_sweden": false,
+   "loo_min": 0.013,
+   "loo_max": 0.634,
+   "sign_flips": false
+  },
+  {
+   "region": "Spain: Central System",
+   "sites": 8,
+   "delta": 0.346,
+   "vs_sweden_lo": 0.084,
+   "vs_sweden_hi": 1.658,
+   "less_hit_than_sweden": true,
+   "loo_min": 0.193,
+   "loo_max": 0.638,
+   "sign_flips": false
+  },
+  {
+   "region": "Poland",
+   "sites": 12,
+   "delta": 0.372,
+   "vs_sweden_lo": 0.267,
+   "vs_sweden_hi": 1.561,
+   "less_hit_than_sweden": true,
+   "loo_min": 0.269,
+   "loo_max": 0.535,
+   "sign_flips": false
+  },
+  {
+   "region": "Baltic: East",
+   "sites": 21,
+   "delta": 0.399,
+   "vs_sweden_lo": 0.474,
+   "vs_sweden_hi": 1.444,
+   "less_hit_than_sweden": true,
+   "loo_min": 0.348,
+   "loo_max": 0.49,
+   "sign_flips": false
+  },
+  {
+   "region": "Spain: Catalonia",
+   "sites": 4,
+   "delta": 0.578,
+   "vs_sweden_lo": 0.577,
+   "vs_sweden_hi": 1.765,
+   "less_hit_than_sweden": true,
+   "loo_min": 0.304,
+   "loo_max": 0.74,
+   "sign_flips": false
+  },
+  {
+   "region": "Czechia",
+   "sites": 9,
+   "delta": 0.581,
+   "vs_sweden_lo": 0.508,
+   "vs_sweden_hi": 1.779,
+   "less_hit_than_sweden": true,
+   "loo_min": 0.433,
+   "loo_max": 0.766,
+   "sign_flips": false
+  },
+  {
+   "region": "Russia",
+   "sites": 4,
+   "delta": 0.688,
+   "vs_sweden_lo": -0.16,
+   "vs_sweden_hi": 2.242,
+   "less_hit_than_sweden": false,
+   "loo_min": 0.368,
+   "loo_max": 1.388,
+   "sign_flips": false
+  },
+  {
+   "region": "Ireland",
+   "sites": 6,
+   "delta": 0.859,
+   "vs_sweden_lo": 0.766,
+   "vs_sweden_hi": 2.075,
+   "less_hit_than_sweden": true,
+   "loo_min": 0.691,
+   "loo_max": 1.029,
+   "sign_flips": false
+  }
+ ]
+}

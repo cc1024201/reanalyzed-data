@@ -1,0 +1,663 @@
+name,lat,lon,gn_name,fclass,how,a2
+Abbot's Kerswell,50.50451,-3.61099,Abbotskerswell,ADM4,variant:abbotskerswell,D4
+Abbotsham,51.02242,-4.25591,Abbotsham,ADM4,exact,D4
+Abbotskerswell,50.50451,-3.61099,Abbotskerswell,ADM4,exact,D4
+Alphington,50.69853,-3.53168,Alphington,PPL,exact,D4
+Alternon,50.60464,-4.51224,Altarnun,PPL,fuzzy:alternonn,C6
+Alverdiscott,51.00473,-4.11762,Alverdiscott,ADM4,exact,D4
+Alwington,51.00026,-4.278,Alwington,ADM4,exact,D4
+Anthony,50.37013,-4.25231,Antony,PPL,exact,C6
+Antony (East),50.37013,-4.25231,Antony,PPL,variant:antony,C6
+Arlington,51.14833,-3.96773,Arlington,ADM4,exact,D4
+Ashburton,50.52671,-3.75298,Ashburton,ADM4,exact,D4
+Ashbury,50.75,-4.11667,Ashbury,PPL,exact,D4
+Ashcombe,50.59887,-3.52474,Ashcombe,ADM4,exact,D4
+Ashford,51.09437,-4.09688,Ashford,ADM4,exact,D4
+Ashprimgton,50.40192,-3.66483,Ashprington,ADM4,fuzzy:ashprington,D4
+Ashprington,50.40192,-3.66483,Ashprington,ADM4,exact,D4
+Ashreigney,50.9097,-3.96006,Ashreigney,ADM4,exact,D4
+Ashton,50.64725,-3.61195,Ashton,ADM4,exact,D4
+Ashwater,50.76066,-4.28204,Ashwater,ADM4,exact,D4
+Aveton Giffard,50.32253,-3.84155,Aveton Gifford,ADM4,fuzzy:aveton gifford,D4
+Aveton-Glffard,50.3225,-3.8416,Aveton Gifford,manual,manual,D4
+Awliscombe,50.8179,-3.22978,Awliscombe,ADM4,exact,D4
+Axminstek,50.78162,-2.99184,Axminster,ADM4,variant:axminster,D4
+Axminster,50.78162,-2.99184,Axminster,ADM4,exact,D4
+Axmouth,50.71921,-3.03087,Axmouth,ADM4,exact,D4
+Aylesbeare,50.71878,-3.36912,Aylesbeare,ADM4,exact,D4
+BARNSTAPLE Priory,51.07898,-4.05504,Barnstaple,ADM4,variant:barnstaple,D4
+Bampton,50.99694,-3.46691,Bampton,ADM4,exact,D4
+Barnastapolie,51.07898,-4.05504,Barnstaple,ADM4,fuzzy:barnstaple,D4
+Barnstaple,51.07898,-4.05504,Barnstaple,ADM4,exact,D4
+Barnstaple Priory,51.07898,-4.05504,Barnstaple,ADM4,variant:barnstaple,D4
+Beaford,50.91924,-4.06417,Beaford,ADM4,exact,D4
+Beaworthy,50.7556,-4.1691,Beaworthy,ADM4,exact,D4
+Belstone,50.72105,-3.95615,Belstone,ADM4,exact,D4
+Bere- Ferrers,50.46415,-4.1911,Bere Ferrers,ADM4,exact,D4
+Bere-Ferrers,50.46415,-4.1911,Bere Ferrers,ADM4,exact,D4
+Berry Pomeroy,50.44013,-3.64906,Berry Pomeroy,ADM4,exact,D4
+Berry-Narbor,51.18884,-4.04787,Berrynarbor,ADM4,variant:berrynarbor,D4
+Berry-Pomeroy,50.44013,-3.64906,Berry Pomeroy,ADM4,exact,D4
+Bickleigh,50.44613,-4.13144,Bickleigh,ADM4,exact,D4
+Bicton,50.66624,-3.33474,Bicton,ADM4,exact,D4
+Bigbuby,50.2900,-3.8850,Bigbury,manual,manual,D4
+Bigbury,50.30443,-3.87664,Bigbury,ADM4,exact,D4
+Bishop's Tawton,51.0382,-4.02092,Bishop's Tawton,ADM4,exact,D4
+Bishopsnympton,51.0,-3.76667,Bishops Nympton,PPL,fuzzy:bishops nympton,D4
+Bishopsteigkton,50.57056,-3.5455,Bishopsteignton,ADM4,fuzzy:bishopsteignton,D4
+Bishopsteignton,50.57056,-3.5455,Bishopsteignton,ADM4,exact,D4
+Bishopstetgnton,50.57056,-3.5455,Bishopsteignton,ADM4,variant:bishopsteignton,D4
+Black Torrington,50.81122,-4.20403,Black Torrington,ADM4,exact,D4
+Black Torrlngton,50.81122,-4.20403,Black Torrington,ADM4,fuzzy:black torrington,D4
+Blackborough,50.87172,-3.2849,Blackborough,PPL,exact,D4
+Bldeford,51.01066,-4.19915,Bideford,ADM4,variant:bideford,D4
+Blisland,50.5276,-4.68237,Blisland,PPL,exact,C6
+Blttadon,51.16238,-4.08102,Bittadon,ADM4,variant:bittadon,D4
+Boconnoc,50.41666,-4.61051,Boconnoc,PPLL,exact,C6
+Boconxoc,50.41666,-4.61051,Boconnoc,PPLL,variant:boconnoc,C6
+Bodmin,50.47151,-4.7243,Bodmin,PPL,exact,C6
+Bondleigh,50.82339,-3.90785,Bondleigh,ADM4,exact,D4
+Botusfleming,50.43108,-4.24901,Botusfleming,PPL,exact,C6
+Botustleming,50.43108,-4.24901,Botusfleming,PPL,fuzzy:botusfleming,C6
+Bovey-Tracy,50.60466,-3.69317,Bovey Tracey,ADM4,fuzzy:bovey tracey,D4
+Bow alias Nymet-Tracy,50.7841,-3.81577,Bow,ADM4,variant:bow,D4
+Boxdleigh,50.82339,-3.90785,Bondleigh,ADM4,variant:bondleigh,D4
+Bradford,50.83101,-4.24814,Bradford,ADM4,exact,D4
+Bradninch,50.83415,-3.42877,Bradninch,ADM4,exact,D4
+Bradstone,50.60846,-4.28015,Bradstone,ADM4,exact,D4
+Bradworthy,50.90697,-4.40825,Bradworthy,ADM4,exact,D4
+Brampfoed-Speke,50.773,-3.52745,Brampford Speke,ADM4,fuzzy:brampford speke,D4
+Brampford-Speke,50.773,-3.52745,Brampford Speke,ADM4,exact,D4
+Branscombe,50.69992,-3.15257,Branscombe,ADM4,exact,D4
+Bratton-Clovelly,50.72215,-4.16308,Bratton Clovelly,ADM4,exact,D4
+Bratton-Fleming,51.13101,-3.93743,Bratton Fleming,ADM4,exact,D4
+Braunton,51.10721,-4.16919,Braunton,ADM4,exact,D4
+Brendon,51.19978,-3.75698,Brendon,ADM4,exact,D4
+Brent,50.42654,-3.83426,South Brent,PPL,exact,D4
+Bridestowe,50.67521,-4.11596,Bridestowe,ADM4,exact,D4
+Bridford,50.66495,-3.68552,Bridford,ADM4,exact,D4
+Bridgerule,50.80102,-4.45005,Bridgerule,ADM4,exact,D4
+Brixham,50.39431,-3.51585,Brixham,PPL,exact,O4
+Broad woodkelly,50.83749,-3.97125,Broadwoodkelly,ADM4,variant:broadwoodkelly,D4
+Broadclyst,50.76667,-3.43333,Broadclyst,PPL,exact,D4
+Broadhembury,50.83391,-3.29476,Broadhembury,ADM4,exact,D4
+Broadhempston,50.48317,-3.69438,Broadhempston,ADM4,exact,D4
+Broadoak,50.44182,-4.60033,Broadoak,ADM3,exact,C6
+Broadwoodkelly,50.83749,-3.97125,Broadwoodkelly,ADM4,exact,D4
+Broadwoodwidger,50.70531,-4.2633,Broadwoodwidger,ADM4,exact,D4
+Buckerell,50.80112,-3.24199,Buckerell,ADM4,exact,D4
+Buckfastleigh,50.47949,-3.77795,Buckfastleigh,ADM4,exact,D4
+Buckland-Filleigh,50.86258,-4.16053,Buckland Filleigh,ADM4,exact,D4
+Buckland-Monachorum,50.48483,-4.1156,Buckland Monachorum,ADM4,exact,D4
+Budleigh,50.6510,-3.3200,East Budleigh (vicarage; patrons Polsloe Priory),manual,manual,D4
+Burlescombe,50.93327,-3.33382,Burlescombe,ADM4,exact,D4
+Burrington,50.93997,-3.95117,Burrington,ADM4,exact,D4
+Butterleigh,50.86634,-3.46442,Butterleigh,ADM4,exact,D4
+Cadbuky,50.8375,-3.54504,Cadbury,ADM4,variant:cadbury,D4
+Cadbury,50.8375,-3.54504,Cadbury,ADM4,exact,D4
+Cadeleigh,50.86873,-3.54532,Cadeleigh,ADM4,exact,D4
+Calstock,50.49623,-4.20639,Calstock,PPL,exact,C6
+Calverleigh,50.91939,-3.53601,Calverleigh,PPL,exact,D4
+Camborne,50.21306,-5.29731,Camborne,PPL,exact,C6
+Cardynham,50.48992,-4.64803,Cardinham,PPL,fuzzy:cardinham,C6
+Challacombe,51.15395,-3.88444,Challacombe,ADM4,exact,D4
+Charles,51.07907,-3.8798,Charles,PPL,exact,D4
+Charleton,50.26791,-3.74738,Charleton,ADM4,exact,D4
+Chawleigh,50.89151,-3.83766,Chawleigh,ADM4,exact,D4
+Cheldon,50.9030,-3.7720,Cheldon,manual,manual,D4
+Chelmleigh,50.92796,-3.8426,Chulmleigh,ADM4,fuzzy:chulmleigh,D4
+Cheriton-Bishop,50.72972,-3.76098,Cheriton Bishop,ADM4,exact,D4
+Cheriton-Fitzpaine,50.84855,-3.59169,Cheriton Fitzpaine,ADM4,exact,D4
+Cheriton-Fitzpalne,51.20086,-3.81492,Cheriton,PPL,variant:cheriton,D4
+Cherlton-Fitzpaine,50.84855,-3.59169,Cheriton Fitzpaine,ADM4,variant:cheriton fitzpaine,D4
+Christow,50.64531,-3.67145,Christow,ADM4,exact,D4
+Chubchstanton,50.91949,-3.14475,Churchstanton,ADM4,fuzzy:churchstanton,M3
+Chudleigh,50.61555,-3.58709,Chudleigh,ADM4,exact,D4
+Chulmleigh,50.92796,-3.8426,Chulmleigh,ADM4,exact,D4
+Chulmleigji,50.92796,-3.8426,Chulmleigh,ADM4,variant:chulmleigh,D4
+Churchstanton,50.91949,-3.14475,Churchstanton,ADM4,exact,M3
+Churchstow,50.30028,-3.80339,Churchstow,ADM4,exact,D4
+Clannaborough,50.7854,-3.79569,Clannaborough,ADM4,exact,D4
+Clayhanger,51.0028,-3.39749,Clayhanger,ADM4,exact,D4
+Clayhidon,50.91372,-3.19625,Clayhidon,ADM4,exact,D4
+Clayhydon,50.91372,-3.19625,Clayhidon,ADM4,fuzzy:clayhidon,D4
+Clovelly,50.99092,-4.40019,Clovelly,ADM4,exact,D4
+Clyst-St. George,50.6953,-3.44888,Clyst St. George,ADM4,exact,D4
+Clyst-St. Laurence,50.78955,-3.38216,Clyst St. Lawrence,ADM4,fuzzy:clyst st lawrence,D4
+Clyst-St. Mart,50.70416,-3.43186,Clyst St. Mary,ADM4,fuzzy:clyst st mary,D4
+Clyst-St. Mary,50.70416,-3.43186,Clyst St. Mary,ADM4,exact,D4
+Clyst-St. Michael,50.7300,-3.4300,Clyst St Michael (approx),manual,manual,D4
+Col aton- Raleigh,50.68587,-3.33679,Colaton Raleigh,ADM4,fuzzy:colaton raleigh,D4
+Colan,50.41773,-5.01943,Colan,ADM3,exact,C6
+Colaton-Raleigh,50.68587,-3.33679,Colaton Raleigh,ADM4,exact,D4
+Colcombe,50.7450,-3.0800,Colcombe Colyton,manual,manual,D4
+Colebrooke,50.78016,-3.75391,Colebrooke,ADM4,exact,D4
+Coleridge,50.84751,-3.8609,Coldridge,ADM4,fuzzy:coldridge,D4
+Colyford,50.72673,-3.06639,Colyford,PPL,exact,D4
+Colyford Chantry (see above),50.72673,-3.06639,Colyford,PPL,variant:colyford,D4
+Colyton,50.74539,-3.09465,Colyton,ADM4,exact,D4
+Colytox,50.74539,-3.09465,Colyton,ADM4,variant:colyton,D4
+Combe Raleigh,50.82069,-3.19784,Combe Raleigh,ADM4,exact,D4
+Combe-Pyne,50.49839,-3.82988,Combe,PPL,variant:combe,D4
+Combe-Raleigh,50.82069,-3.19784,Combe Raleigh,ADM4,exact,D4
+Combe-in-Teignhead,50.53445,-3.55454,Combeinteignhead,PPL,variant:combeinteignhead,D4
+Combepyne,50.72578,-3.0074,Combpyne,PPL,fuzzy:combpyne,D4
+Combmartin,51.20317,-4.00446,Combe Martin,ADM4,fuzzy:combe martin,D4
+Cornwood,50.44113,-3.95678,Cornwood,ADM4,exact,D4
+Corxwood,50.44113,-3.95678,Cornwood,ADM4,variant:cornwood,D4
+Coryton,50.63796,-4.17325,Coryton,ADM4,exact,D4
+Cotleigh,50.82221,-3.13325,Cotleigh,ADM4,exact,D4
+Crantock,50.40272,-5.11208,Crantock,PPL,exact,C6
+Crediton,50.78798,-3.6541,Crediton,ADM4,exact,D4
+Creditox,50.78798,-3.6541,Crediton,ADM4,variant:crediton,D4
+Cruwys-Morchard,50.89574,-3.59984,Cruwys Morchard,ADM4,exact,D4
+Culmbridge,50.9100,-3.2200,Culmbridge Hemyock,manual,manual,D4
+Culmbrldge,50.9100,-3.2200,Culmbridge Hemyock (OCR),manual,manual,D4
+Culmstock,50.92843,-3.28411,Culmstock,ADM4,exact,D4
+Dartington,50.44367,-3.72418,Dartington,ADM4,exact,D4
+Dawlish,50.58645,-3.47539,Dawlish,ADM4,exact,D4
+Dawltsh,50.5810,-3.4660,Dawlish,manual,manual,D4
+Dbewsteignton,50.71061,-3.80677,Drewsteignton,ADM4,fuzzy:drewsteignton,D4
+Dcnsford,50.69811,-3.674,Dunsford,ADM4,variant:dunsford,D4
+Dean,50.46667,-3.78333,Dean,PPL,exact,D4
+Dean-Prior,50.46826,-3.83019,Dean Prior,ADM4,exact,D4
+Denbury,50.50768,-3.66065,Denbury,PPL,exact,D4
+Diptford,50.38399,-3.76755,Diptford,ADM4,exact,D4
+Dittisham,50.38479,-3.60343,Dittisham,ADM4,exact,D4
+Dodbrook,50.28498,-3.77579,Dodbrooke,PPLX,fuzzy:dodbrooke,D4
+Dodbrooke,50.28498,-3.77579,Dodbrooke,PPLX,exact,D4
+Doddiscombsleigh,50.67096,-3.62633,Doddiscombsleigh,ADM4,exact,D4
+Dolton,50.89003,-4.03279,Dolton,ADM4,exact,D4
+Downe St. Mary,50.82783,-3.78087,Down St. Mary,ADM4,fuzzy:down st mary,D4
+Downe-St. Mary,50.82783,-3.78087,Down St. Mary,ADM4,fuzzy:down st mary,D4
+Drewsteignton,50.71061,-3.80677,Drewsteignton,ADM4,exact,D4
+Dtjnsford,50.69811,-3.674,Dunsford,ADM4,variant:dunsford,D4
+Duloe,50.38333,-4.48333,Duloe,PPLA3,exact,C6
+Dunchideock,50.67169,-3.5935,Dunchideock,ADM4,exact,D4
+Dunterton,50.58762,-4.28846,Dunterton,ADM4,exact,D4
+East Allington,50.31911,-3.71851,East Allington,ADM4,exact,D4
+East Anstey,51.0243,-3.62252,East Anstey,ADM4,exact,D4
+East Buckland,51.06564,-3.89284,East Buckland,PPL,exact,D4
+East Down,51.15521,-4.02016,East Down,ADM4,exact,D4
+East Ogwell,50.51879,-3.63805,East Ogwell,PPL,exact,D4
+East Worlington,50.91336,-3.75674,East Worlington,ADM4,exact,D4
+Eggbuckland,50.4,-4.11667,Eggbuckland,PPL,exact,K4
+Eggbucklaxd,50.4,-4.11667,Eggbuckland,PPL,variant:eggbuckland,K4
+Eggesford,50.87131,-3.87571,Eggesford,ADM4,exact,D4
+Egloshayle,50.51396,-4.82473,Egloshayle,PPL,exact,C6
+Endellion,50.56667,-4.83333,Saint Endellion,PPL,fuzzy:endellyon,C6
+Ermington,50.37321,-3.9245,Ermington,ADM4,exact,D4
+Ermixgton,50.37321,-3.9245,Ermington,ADM4,variant:ermington,D4
+Euckland-Brewer,50.94849,-4.26474,Buckland Brewer,ADM4,fuzzy:buckland brewer,D4
+Exbourne,50.80054,-3.98841,Exbourne,ADM4,exact,D4
+Exetee Cathedral,50.72258,-3.53062,Exeter Cathedral,CH,variant:exeter cathedral,D4
+Exeter,50.7236,-3.52751,Exeter,PPLA2,exact,D4
+Exeter Castle,50.7236,-3.52751,Exeter,PPLA2,variant:exeter,D4
+Exeter Cathedral,50.72258,-3.53062,Exeter Cathedral,CH,exact,D4
+Exeter Cathedral j Prebends,50.7236,-3.52751,Exeter,PPLA2,variant:exeter,D4
+Exminster,50.67734,-3.49923,Exminster,ADM4,exact,D4
+Farbingdon,50.71427,-3.40056,Farringdon,ADM4,fuzzy:farringdon,D4
+Faringdon,50.71427,-3.40056,Farringdon,ADM4,fuzzy:farringdon,D4
+Faringdon (Hants — Farendone,50.71427,-3.40056,Farringdon,ADM4,fuzzy:farringdon,D4
+Farringdon,50.71427,-3.40056,Farringdon,ADM4,exact,D4
+Farway,50.75857,-3.16636,Farway,ADM4,exact,D4
+Feniton,50.79539,-3.27897,Feniton,ADM4,exact,D4
+Feock,50.20454,-5.05178,Feock,PPL,exact,C6
+Filleigh,51.03965,-3.89262,Filleigh,ADM4,exact,D4
+Forrabury,50.68562,-4.69291,Forrabury,PPL,exact,C6
+Fowey,50.33634,-4.6386,Fowey,PPL,exact,C6
+Fremington,51.06884,-4.12255,Fremington,ADM4,exact,D4
+GASNEY,50.1683,-5.1030,Glasney College Penryn (OCR),manual,manual,C6
+Georgeham,51.14056,-4.20424,Georgeham,ADM4,exact,D4
+Gidleigh,50.67304,-3.90584,Gidleigh,ADM4,exact,D4
+Gittisham,50.77558,-3.2282,Gittisham,ADM4,exact,D4
+Gj Lawhitton,50.61761,-4.32591,Lawhitton,PPL,fuzzy:lawhitton,C6
+Gl Highampton,50.81895,-4.13961,Highampton,ADM4,fuzzy:highampton,D4
+Glasney,50.1683,-5.1030,Glasney College Penryn,manual,manual,C6
+Goodleigh,51.09249,-3.99602,Goodleigh,ADM4,exact,D4
+Grade,49.98248,-5.19128,Grade,PPL,exact,C6
+Grittisham,50.77558,-3.2282,Gittisham,ADM4,fuzzy:gittisham,D4
+Gwinear,50.18749,-5.36656,Gwinear,PPL,exact,C6
+Haccombe,50.5310,-3.5690,Haccombe near Newton Abbot,manual,manual,D4
+Halberton,50.89445,-3.41763,Halberton,ADM4,exact,D4
+Halwill,50.76896,-4.21098,Halwill,ADM4,exact,D4
+Harberton,50.41154,-3.73498,Harberton,ADM4,exact,D4
+Harford,50.42876,-3.91169,Harford,ADM4,exact,D4
+Harpford,50.70522,-3.28854,Harpford,PPL,exact,D4
+Hatherleigh,50.81575,-4.06245,Hatherleigh,ADM4,exact,D4
+Heanton-Punchardon,51.09258,-4.13318,Heanton Punchardon,ADM4,exact,D4
+Heavitree,50.72044,-3.49646,Heavitree,PPLX,exact,D4
+Hell and,50.5,-4.71667,Helland,PPLA3,variant:helland,C6
+Hemerdon,50.39714,-4.01838,Hemerdon,PPL,exact,D4
+Hemyock,50.91124,-3.22224,Hemyock,ADM4,exact,D4
+Hennock,50.60876,-3.64796,Hennock,ADM4,exact,D4
+Hermerdone,50.39714,-4.01838,Hemerdon,PPL,fuzzy:hemerdon,D4
+High Beat,51.0900,-3.8500,High Bray,manual,manual,D4
+High Bickington,50.96412,-4.00041,High Bickington,ADM4,exact,D4
+High Bray,51.09172,-3.87341,High Bray,PPL,exact,D4
+High-Bray,51.09172,-3.87341,High Bray,PPL,exact,D4
+Highampton,50.81895,-4.13961,Highampton,ADM4,exact,D4
+Hittisleigh,50.74479,-3.80814,Hittisleigh,ADM4,exact,D4
+Hockworthy,50.97199,-3.38432,Hockworthy,ADM4,exact,D4
+Holbeton,50.32902,-3.96216,Holbeton,ADM4,exact,D4
+Holcombe-Burnel,50.56603,-3.47692,Holcombe,PPL,variant:holcombe,D4
+Holcombe-Burnell,50.70747,-3.60988,Holcombe Burnell,ADM4,exact,D4
+Holcombe-Rogus,50.9641,-3.33368,Holcombe Rogus,ADM4,exact,D4
+Hollacombe,50.79876,-4.30201,Hollacombe,ADM4,exact,D4
+Holne,50.52116,-3.83866,Holne,ADM4,exact,D4
+Holsworthy,50.81327,-4.35258,Holsworthy,ADM4,exact,D4
+Honeychuech,50.80873,-3.94813,Honeychurch,PPLL,fuzzy:honeychurch,D4
+Honeychurch,50.80873,-3.94813,Honeychurch,PPLL,exact,D4
+Horwood,51.02862,-4.13669,Horwood,PPL,exact,D4
+Htttisleigh,50.74479,-3.80814,Hittisleigh,ADM4,fuzzy:hittisleigh,D4
+Huish,50.87892,-4.07766,Huish,ADM4,exact,D4
+Huntsham,50.96759,-3.43436,Huntsham,ADM4,exact,D4
+Huntshaw,50.98991,-4.12405,Huntshaw,ADM4,exact,D4
+Huxham,50.7695,-3.48936,Huxham,ADM4,exact,D4
+I1L Chittlehampton,51.00977,-3.9489,Chittlehampton,ADM4,fuzzy:chittlehampton,D4
+Iddesleigh,50.85109,-4.02458,Iddesleigh,ADM4,exact,D4
+Ideford,50.58269,-3.57475,Ideford,ADM4,exact,D4
+Ilfracombe,51.1971,-4.1372,Ilfracombe,ADM4,exact,D4
+Ilsington,50.56537,-3.71725,Ilsington,ADM4,exact,D4
+Instow,51.05644,-4.16059,Instow,ADM4,exact,D4
+Instowe,51.05644,-4.16059,Instow,ADM4,fuzzy:instow,D4
+Inwardleigh,50.76704,-4.04017,Inwardleigh,ADM4,exact,D4
+Inwardletgh,50.76704,-4.04017,Inwardleigh,ADM4,variant:inwardleigh,D4
+J Yealmpton,50.35368,-3.9942,Yealmpton,ADM4,fuzzy:yealmpton,D4
+J^b Rockbeare,50.74343,-3.36607,Rockbeare,ADM4,fuzzy:rockbeare,D4
+Jihuntsham,50.96759,-3.43436,Huntsham,ADM4,fuzzy:huntsham,D4
+J°L Little Petherick,50.51228,-4.94203,Little Petherick,PPL,fuzzy:little petherick,C6
+J°L Lustleigh,50.62285,-3.73543,Lustleigh,ADM4,fuzzy:lustleigh,D4
+K Brampford-Speke,50.773,-3.52745,Brampford Speke,ADM4,fuzzy:brampford speke,D4
+Kelly,50.61406,-4.25845,Kelly,ADM4,exact,D4
+Kenn,50.6537,-3.55356,Kenn,ADM4,exact,D4
+Kentisbeare,50.86695,-3.32013,Kentisbeare,ADM4,exact,D4
+Kentisbury,51.1782,-3.96352,Kentisbury,ADM4,exact,D4
+Kenton,50.63413,-3.50022,Kenton,ADM4,exact,D4
+Kingsnympton,50.95,-3.88333,Kings Nympton,PPL,fuzzy:kings nympton,D4
+Kingsteignton,50.56341,-3.60309,Kingsteignton,ADM4,exact,D4
+Kllkhampton,50.87566,-4.48392,Kilkhampton,PPL,fuzzy:kilkhampton,C6
+Knowston & Molland,50.99279,-3.66695,Knowstone,ADM4,fuzzy:knowstone,D4
+Kxowstone,50.99279,-3.66695,Knowstone,ADM4,variant:knowstone,D4
+L Loxhore,51.12586,-3.96825,Loxhore,ADM4,fuzzy:loxhore,D4
+Lamana,50.3370,-4.4520,Lamanna chapel Looe Island,manual,manual,C6
+Lamerton,50.57222,-4.1875,Lamerton,ADM4,exact,D4
+Lamorran,50.23881,-4.97857,Lamorran,PPL,exact,C6
+Landcross,50.993,-4.19303,Landcross,ADM4,exact,D4
+Landrake,50.42265,-4.29023,Landrake,PPL,exact,C6
+Landulph,50.43283,-4.21141,Landulph,PPL,exact,C6
+Langteee,50.91668,-4.20147,Langtree,ADM4,fuzzy:langtree,D4
+Langtree,50.91668,-4.20147,Langtree,ADM4,exact,D4
+Lanivet,50.44351,-4.76443,Lanivet,PPL,exact,C6
+Lanlivery,50.39899,-4.70308,Lanlivery,PPL,exact,C6
+Lanreath,50.38414,-4.56037,Lanreath,PPL,exact,C6
+"Lansallos ""Lansalwys",50.33626,-4.56911,Lansallos,PPL,variant:lansallos,C6
+Lanteglos,50.34747,-4.61567,Lanteglos,PPL,exact,C6
+Lanteglos-by- Camelford,50.34747,-4.61567,Lanteglos,PPL,variant:lanteglos,C6
+Lanteglos-by-Camelford,50.34747,-4.61567,Lanteglos,PPL,variant:lanteglos,C6
+Lanteglos-by-Fowey,50.34747,-4.61567,Lanteglos,PPL,variant:lanteglos,C6
+Lapford,50.8627,-3.79383,Lapford,ADM4,exact,D4
+Launcells,50.82427,-4.4947,Launcells,PPLL,exact,C6
+Launcklls,50.82427,-4.4947,Launcells,PPLL,fuzzy:launcells,C6
+Lawhitton,50.61761,-4.32591,Lawhitton,PPL,exact,C6
+Lelant,50.18298,-5.44047,Uny Lelant,PPL,exact,C6
+Lesnewth,50.68261,-4.64725,Lesnewth,PPL,exact,C6
+Lewannick,50.60019,-4.43831,Lewannick,PPL,exact,C6
+Lezant,50.58771,-4.34857,Lezant,PPL,exact,C6
+Lfton,50.64296,-4.2875,Lifton,ADM4,fuzzy:lifton,D4
+Linkinhorne,50.53759,-4.37364,Linkinhorne,PPL,exact,C6
+Little Hempston,50.45431,-3.67068,Littlehempston,ADM4,variant:littlehempston,D4
+Little Pethekick,50.51228,-4.94203,Little Petherick,PPL,fuzzy:little petherick,C6
+Little Petherick,50.51228,-4.94203,Little Petherick,PPL,exact,C6
+Little Torrington,50.93225,-4.14579,Little Torrington,ADM4,exact,D4
+Littleham,50.993,-4.22408,Littleham,ADM4,exact,D4
+Lnklnhorne,50.53759,-4.37364,Linkinhorne,PPL,fuzzy:linkinhorne,C6
+Loddiswell,50.33226,-3.80194,Loddiswell,ADM4,exact,D4
+Loxbeabe,50.926,-3.55552,Loxbeare,ADM4,fuzzy:loxbeare,D4
+Loxbeare,50.926,-3.55552,Loxbeare,ADM4,exact,D4
+Loxhore,51.12586,-3.96825,Loxhore,ADM4,exact,D4
+Ltttleham,50.993,-4.22408,Littleham,ADM4,fuzzy:littleham,D4
+Luffincott,50.72849,-4.34675,Luffincott,ADM4,exact,D4
+Lufflncott,50.72849,-4.34675,Luffincott,ADM4,fuzzy:luffincott,D4
+Lundy Island,51.1800,-4.6700,Lundy,manual,manual,D4
+Luppit,50.84497,-3.17558,Luppitt,ADM4,fuzzy:luppitt,D4
+Luppitt,50.84497,-3.17558,Luppitt,ADM4,exact,D4
+Lustleigh,50.62285,-3.73543,Lustleigh,ADM4,exact,D4
+Lydfokd,50.64601,-4.0883,Lydford,ADM4,variant:lydford,D4
+Lydford,50.64601,-4.0883,Lydford,ADM4,exact,D4
+Lympstone,50.64556,-3.40782,Lympstone,ADM4,exact,D4
+Maktinhoe,51.21398,-3.89965,Martinhoe,ADM4,variant:martinhoe,D4
+Mamhead,50.61548,-3.51004,Mamhead,ADM4,exact,D4
+Manaccan,50.08429,-5.12728,Manaccan,PPL,exact,C6
+Manaton,50.607,-3.79598,Manaton,ADM4,exact,D4
+Marianslegh,50.98145,-3.79028,Mariansleigh,ADM4,fuzzy:mariansleigh,D4
+Mariansleigh,50.98145,-3.79028,Mariansleigh,ADM4,exact,D4
+Martinhoe,51.21398,-3.89965,Martinhoe,ADM4,exact,D4
+Marwood,51.1314,-4.07574,Marwood,ADM4,exact,D4
+Mary-Tavy,50.59943,-4.1203,Mary Tavy,ADM4,exact,D4
+Marystowe,50.6394,-4.21323,Marystow,ADM4,fuzzy:marystow,D4
+Mawnan,50.10749,-5.09562,Mawnan,PPL,exact,C6
+Meavy,50.47959,-4.05333,Meavy,ADM4,exact,D4
+Meavy LMewy,50.47959,-4.05333,Meavy,ADM4,variant:meavy,D4
+Meeth,50.85463,-4.07793,Meeth,ADM4,exact,D4
+Menhenyot,50.44006,-4.41194,Menheniot,PPL,fuzzy:menheniot,C6
+Merton,50.90596,-4.0995,Merton,ADM4,exact,D4
+Meshaw,50.95759,-3.75188,Meshaw,ADM4,exact,D4
+Mevagissey,50.27324,-4.79166,Mevagissey,PPL,exact,C6
+Michaelstowe,50.57806,-4.71342,Michaelstow,PPL,fuzzy:michaelstow,C6
+Milton- Abbot,50.59274,-4.22391,Milton Abbot,ADM4,exact,D4
+Milton-Abbot,50.59274,-4.22391,Milton Abbot,ADM4,exact,D4
+Milton-Damarel,50.87076,-4.29021,Milton Damerel,ADM4,fuzzy:milton damerel,D4
+Minster,50.6840,-4.6810,Minster Boscastle,manual,manual,C6
+Minster Priory,50.92685,-2.91476,Ilminster,ADM4,fuzzy:ilminster,M3
+Modbury,50.35166,-3.87976,Modbury,ADM4,exact,D4
+Modbury Prior y,50.35166,-3.87976,Modbury,ADM4,variant:modbury,D4
+Modbury Priory,50.35166,-3.87976,Modbury,ADM4,variant:modbury,D4
+Monkleigh,50.97407,-4.20045,Monkleigh,ADM4,exact,D4
+Monkokehamptone,50.83092,-4.00578,Monkokehampton,ADM4,fuzzy:monkokehampton,D4
+Morchard-Blshop,50.85255,-3.74369,Morchard Bishop,ADM4,variant:morchard bishop,D4
+Morebath,51.015,-3.48677,Morebath,ADM4,exact,D4
+Moreleigh,50.36185,-3.73547,Moreleigh,PPL,exact,D4
+Moreleigh),50.36185,-3.73547,Moreleigh,PPL,exact,D4
+Moreton-Hampstead,50.66495,-3.75842,Moretonhampstead,ADM4,variant:moretonhampstead,D4
+Morthoe,51.18544,-4.20806,Mortehoe,PPL,exact,D4
+Morval,50.38458,-4.44817,Morval,PPL,exact,C6
+Morwenstowe,50.90737,-4.55024,Morwenstow,PPL,fuzzy:morwenstow,C6
+Musbury,50.74721,-3.01901,Musbury,ADM4,exact,D4
+N Orthmolton,51.07472,-3.7976,North Molton,ADM4,fuzzy:north molton,D4
+Newton- Ferrers,50.31467,-4.0392,Newton Ferrers,PPL,exact,D4
+Newton-Ferrers,50.31467,-4.0392,Newton Ferrers,PPL,exact,D4
+Newton-Poppleford,50.7,-3.29586,Newton Poppleford,PPL,exact,D4
+Newton-St. Cyres,50.76592,-3.5924,Newton St. Cyres,ADM4,exact,D4
+Newton-St. Gyres,50.7760,-3.5870,Newton St Cyres,manual,manual,D4
+Newton-St. Petrock,50.89085,-4.25881,Newton St. Petrock,ADM4,exact,D4
+Newton-Tracy,51.0420,-4.1060,Newton Tracey,manual,manual,D4
+Nobthmolton,51.07472,-3.7976,North Molton,ADM4,fuzzy:north molton,D4
+North Bovey,50.6363,-3.82058,North Bovey,ADM4,exact,D4
+North Huish,50.38861,-3.80953,North Huish,ADM4,exact,D4
+North Lew,50.77175,-4.12486,Northlew,ADM4,variant:northlew,D4
+North Petherwyn,50.67695,-4.43354,North Petherwin,PPL,fuzzy:north petherwin,C6
+North Tawton,50.79812,-3.88565,North Tawton,ADM4,exact,D4
+Northam,51.05067,-4.22084,Northam,ADM4,exact,D4
+Northill,50.55,-4.43333,North Hill,PPLA3,fuzzy:north hill,C6
+Northleigh,50.76371,-3.13743,Northleigh,ADM4,exact,D4
+Northletgh,50.76371,-3.13743,Northleigh,ADM4,variant:northleigh,D4
+Northmolton,51.07472,-3.7976,North Molton,ADM4,fuzzy:north molton,D4
+Nymet-Bowland,50.85724,-3.82846,Nymet Rowland,ADM4,fuzzy:nymet rowland,D4
+Nymet-St. George,50.9930,-3.8500,George Nympton,manual,manual,D4
+Nymet-Tracy,50.8,-3.81667,Bow,PPL,fuzzy:nymet tracey,D4
+Offwell,50.78601,-3.14508,Offwell,ADM4,exact,D4
+Okeford,50.9790,-3.5520,Oakford Devon (not Oareford Somerset),manual,manual,D4
+Okehampton,50.73884,-3.99996,Okehampton,ADM4,exact,D4
+Ottebton Pbioby,50.65694,-3.288,Otterton,ADM4,fuzzy:otterton,D4
+Otterham,50.68777,-4.59544,Otterham,PPL,exact,C6
+Otterton,50.65694,-3.288,Otterton,ADM4,exact,D4
+Ottery-St. Mary,50.74656,-3.28454,Ottery St. Mary,ADM4,exact,D4
+Pabkham,50.9720,-4.3000,Parkham,manual,manual,D4
+Padstow,50.53885,-4.93664,Padstow,PPLA3,exact,C6
+Paignton,50.43565,-3.56789,Paignton,PPL,exact,O4
+Parkham,50.97018,-4.29399,Parkham,ADM4,exact,D4
+Parracombe,51.19304,-3.90373,Parracombe,ADM4,exact,D4
+Paul,50.09022,-5.54683,Paul,PPL,exact,C6
+Payhembury,50.80935,-3.29842,Payhembury,ADM4,exact,D4
+Pelynt,50.36589,-4.52274,Pelynt,PPL,exact,C6
+Petertavy,50.56667,-4.1,Petertavy,PPL,exact,D4
+Petrockstowe,50.86916,-4.12217,Petrockstow,ADM4,fuzzy:petrockstow,D4
+Philleigh,50.21626,-4.98531,Philleigh,PPL,exact,C6
+Pillaton,50.45,-4.3,Pillaton,PPLA3,exact,C6
+Pilton Pbiory,51.08333,-4.06667,Pilton,PPL,variant:pilton,D4
+Pilton Priory,51.08333,-4.06667,Pilton,PPL,variant:pilton,D4
+Pinhoe,50.74009,-3.46704,Pinhoe,PPL,exact,D4
+Plymtree,50.82428,-3.33913,Plymtree,ADM4,exact,D4
+Poltimore,50.76697,-3.47226,Poltimore,ADM4,exact,D4
+Poltimorr,50.76697,-3.47226,Poltimore,ADM4,variant:poltimore,D4
+Portlemouth,50.23216,-3.75578,East Portlemouth,PPL,exact,D4
+Poughill,50.86682,-3.62799,Poughill,ADM4,exact,D4
+Poundstock,50.76667,-4.55,Poundstock,PPLA3,exact,C6
+Powderham,50.6538,-3.47552,Powderham,ADM4,exact,D4
+Puddington,50.89,-3.65052,Puddington,ADM4,exact,D4
+Puddtngton,50.89,-3.65052,Puddington,ADM4,variant:puddington,D4
+Pyworthy,50.80168,-4.40397,Pyworthy,ADM4,exact,D4
+Quethiock,50.45865,-4.37753,Quethiock,PPL,exact,C6
+Rackenford,50.95902,-3.6452,Rackenford,ADM4,exact,D4
+Rackexford,50.95902,-3.6452,Rackenford,ADM4,variant:rackenford,D4
+Raleigh,51.08848,-4.0511,Raleigh,PPLX,exact,D4
+Rame,50.16249,-5.1837,Rame,PPL,exact,C6
+Ratteky,50.44616,-3.76895,Rattery,ADM4,variant:rattery,D4
+Rattery,50.44616,-3.76895,Rattery,ADM4,exact,D4
+Redruth,50.23315,-5.22434,Redruth,PPLA3,exact,C6
+Remington,51.06884,-4.12255,Fremington,ADM4,fuzzy:fremington,D4
+Rewe,50.79856,-3.49591,Rewe,ADM4,exact,D4
+Rlngmore,50.30737,-3.89956,Ringmore,ADM4,variant:ringmore,D4
+Roborough,50.93688,-4.0284,Roborough,ADM4,exact,D4
+Roche,50.40808,-4.83373,Roche,PPLA3,exact,C6
+Rockbeare,50.74343,-3.36607,Rockbeare,ADM4,exact,D4
+Romansleigh,50.96131,-3.80177,Romansleigh,ADM4,exact,D4
+Roseash,50.97126,-3.72616,Rose Ash,ADM4,fuzzy:rose ash,D4
+Rousdon,50.71679,-2.99701,Rousdon,PPL,exact,D4
+ST- Cubert,50.37949,-5.11761,Cubert,PPL,variant:cubert,C6
+ST. Issey,50.5,-4.91667,Saint Issey,PPL,exact,C6
+ST. Keyne,50.41667,-4.46667,Saint Keyne,PPL,exact,C6
+ST. Mlnver,50.55,-4.86667,Saint Minver,PPL,variant:st minver,C6
+Salcombe- Regis,50.69322,-3.20718,Salcombe Regis,PPL,exact,D4
+Salcombe-Regis,50.69322,-3.20718,Salcombe Regis,PPL,exact,D4
+Sampford Courtenay,50.78031,-3.94649,Sampford Courtenay,ADM4,exact,D4
+Sampford-Courtenay,50.78031,-3.94649,Sampford Courtenay,ADM4,exact,D4
+Sampford-Peverell,50.93636,-3.37423,Sampford Peverell,ADM4,exact,D4
+Satterleigh,50.98333,-3.9,Satterleigh,PPL,exact,D4
+Satterletgh,50.98333,-3.9,Satterleigh,PPL,variant:satterleigh,D4
+Seaton,50.71203,-3.07416,Seaton,ADM4,exact,D4
+Shebbear,50.87442,-4.22176,Shebbear,ADM4,exact,D4
+Shebbeare,50.87442,-4.22176,Shebbear,ADM4,fuzzy:shebbear,D4
+Shillingford,51.00611,-3.45222,Shillingford,PPL,exact,D4
+Shirwell,51.11846,-4.02013,Shirwell,ADM4,exact,D4
+Shobrooke,50.80654,-3.59503,Shobrooke,ADM4,exact,D4
+Sidbtjry,50.71953,-3.22028,Sidbury,PPL,variant:sidbury,D4
+Sidbury,50.71953,-3.22028,Sidbury,PPL,exact,D4
+Sidmouth,50.71709,-3.22437,Sidmouth,ADM4,exact,D4
+Slapton,50.3056,-3.66883,Slapton,ADM4,exact,D4
+Sllverton,50.83139,-3.46729,Silverton,ADM4,fuzzy:silverton,D4
+South Petherwin,50.61137,-4.39012,South Petherwin,PPL,exact,C6
+South Pool,50.25065,-3.73042,South Pool,ADM4,exact,D4
+South Tawton,50.73603,-3.9063,South Tawton,ADM4,exact,D4
+Southill,50.5200,-4.3700,Southill Cornwall,manual,manual,C6
+Southleigh,50.73012,-3.13776,Southleigh,ADM4,exact,D4
+Southmolton,51.01788,-3.85243,South Molton,ADM4,fuzzy:south molton,D4
+Spreyton,50.75344,-3.84293,Spreyton,ADM4,exact,D4
+St CREDITON,50.78798,-3.6541,Crediton,ADM4,variant:crediton,D4
+St Merryn,50.52546,-4.98982,Saint Merryn,PPL,exact,C6
+St. Allen,50.3,-5.06667,Saint Allen,PPL,exact,C6
+St. Anthony-in-Meneage,50.08062,-5.10686,St. Anthony-in-Meneage,ADM3,exact,C6
+St. Austell,50.3425,-4.77442,St Austell,PPL,exact,C6
+St. Breoke,50.51127,-4.85363,St Breock,PPL,fuzzy:st breock,C6
+St. Breward,50.55878,-4.68947,Saint Breward,PPL,exact,C6
+St. Cbantock,50.40272,-5.11208,Crantock,PPL,fuzzy:crantock,C6
+St. Cleer,50.48333,-4.46667,Saint Cleer,PPL,exact,C6
+St. Clement's,50.25574,-5.02084,Saint Clement,PPL,fuzzy:st clement,C6
+St. Clether,50.63333,-4.53333,Saint Clether,PPL,exact,C6
+St. Colan,50.41773,-5.01943,Colan,ADM3,variant:colan,C6
+St. Columb-Major,50.43163,-4.94336,Saint Columb Major,PPL,exact,C6
+St. Constantine,50.1189,-5.17595,Constantine,PPL,variant:constantine,C6
+St. Crantock,50.40272,-5.11208,Crantock,PPL,variant:crantock,C6
+St. Creed,50.28874,-4.89975,Creed,PPL,variant:creed,C6
+St. Cubert,50.37949,-5.11761,Cubert,PPL,variant:cubert,C6
+St. Dominick,50.48333,-4.26667,Saint Dominick,PPL,exact,C6
+St. Endellion,50.56667,-4.83333,Saint Endellion,PPL,exact,C6
+St. Enoder,50.36667,-4.96667,Saint Enoder,PPL,exact,C6
+St. Erme,50.31178,-5.02906,Saint Erme,PPL,exact,C6
+St. Erth,50.16667,-5.43333,Saint Erth,PPL,exact,C6
+St. Ervan,50.48333,-4.98333,Saint Ervan,PPL,exact,C6
+St. Eval,50.47853,-4.99262,Saint Eval,PPL,exact,C6
+St. Feock,50.20454,-5.05178,Feock,PPL,exact,C6
+St. G-winear,50.18749,-5.36656,Gwinear,PPL,variant:gwinear,C6
+St. Gennys,50.73333,-4.63333,Saint Gennys,PPL,exact,C6
+St. Gluvias,50.18666,-5.11853,St. Gluvias,ADM3,exact,C6
+St. Goran,50.25083,-4.82197,Saint Goran,PPL,exact,C6
+St. Gulval,50.13282,-5.52118,Gulval,PPL,variant:gulval,C6
+St. Gwennap,50.21798,-5.1704,Gwennap,PPL,variant:gwennap,C6
+St. Gwinear,50.18749,-5.36656,Gwinear,PPL,variant:gwinear,C6
+St. Hilary,50.11667,-5.41667,Saint Hilary,PPL,exact,C6
+St. Illogan,50.2483,-5.26752,Illogan,PPL,variant:illogan,C6
+St. Issey,50.5,-4.91667,Saint Issey,PPL,exact,C6
+St. Ive,50.48333,-4.38333,Saint Ive,PPL,exact,C6
+St. John in Cornwall,50.36135,-4.24023,St John,PPL,variant:st john,C6
+St. John-in-Cornwall,50.36135,-4.24023,St John,PPL,variant:st john,C6
+St. Jtjst-in-Penwith,50.12379,-5.68065,St Just,PPL,variant:st just,C6
+St. JusT-In-Penwith,50.12379,-5.68065,St Just,PPL,variant:st just,C6
+St. Just-in-Penwith,50.12379,-5.68065,St Just,PPL,variant:st just,C6
+St. Just-in-Roseland,50.18333,-5.01667,Saint Just in Roseland,PPL,exact,C6
+St. Kea,50.24337,-5.07238,Kea,PPL,variant:kea,C6
+St. Keverne,50.04964,-5.08952,Saint Keverne,PPL,exact,C6
+St. Kew,50.55,-4.78333,Saint Kew,PPL,exact,C6
+St. Ludgvan,50.14459,-5.49473,Ludgvan,PPL,variant:ludgvan,C6
+St. Mabyn,50.52597,-4.76607,Saint Mabyn,PPL,exact,C6
+St. Madron,50.13266,-5.56484,Madron,PPL,variant:madron,C6
+St. Mary Church,50.48013,-3.52356,St Marychurch,PPLX,fuzzy:st marychurch,O4
+St. Mawgan-in-Kerrier,50.45,-4.98333,Saint Mawgan,PPL,variant:st mawgan,C6
+St. Mawgan-in-Pyder,50.45,-4.98333,Saint Mawgan,PPL,variant:st mawgan,C6
+St. Mawnan,50.10749,-5.09562,Mawnan,PPL,variant:mawnan,C6
+St. Mellion,50.46667,-4.26667,Saint Mellion,PPL,exact,C6
+St. Merryn,50.52546,-4.98982,Saint Merryn,PPL,exact,C6
+St. Mewan,50.3318,-4.81808,St Mewan,PPL,exact,C6
+St. Michael Penkevil,50.2546,-4.9884,St. Michael Penkevil,ADM3,exact,C6
+St. Michael's Mount,50.11902,-5.47632,St. Michael's Mount,ADM3,exact,C6
+St. Mikver,50.55,-4.86667,Saint Minver,PPL,fuzzy:st minver,C6
+St. Mullion,50.02706,-5.24248,Mullion,PPL,variant:mullion,C6
+St. Neot,50.48112,-4.55918,Saint Neot,PPL,exact,C6
+St. Newlyn,50.1052,-5.55176,Newlyn,PPL,variant:newlyn,C6
+St. Perran-Uthno,50.11469,-5.44493,Perranuthnoe,PPL,fuzzy:perranuthnoe,C6
+St. Phillack,50.19717,-5.40414,Phillack,PPL,variant:phillack,C6
+St. Probtjs,50.29267,-4.95401,Probus,PPL,variant:probus,C6
+St. Probus,50.29267,-4.95401,Probus,PPL,variant:probus,C6
+St. Ruan-Lanyhorne,50.2407,-4.95312,Ruan Lanihorne,PPL,fuzzy:ruan lanihorne,C6
+St. Ruan-Major,50.00343,-5.20561,Ruan Major,PPL,variant:ruan major,C6
+St. Sancreed,50.10804,-5.61003,Sancreed,PPL,variant:sancreed,C6
+St. Sithney,50.11333,-5.30759,Sithney,PPL,variant:sithney,C6
+St. Stephen's-by-Saltash,50.4038,-4.22951,St Stephens,PPLX,fuzzy:st stephens,C6
+St. Stephen's-in-Brannel,50.35243,-4.8786,St. Stephen-in-Brannel,ADM3,fuzzy:st stephen in brannel,C6
+St. Teath,50.59291,-4.73721,Saint Teath,PPL,exact,C6
+St. Tudy,50.55,-4.73333,Saint Tudy,PPL,exact,C6
+St. Uny-Lelant,50.18298,-5.44047,Uny Lelant,PPL,variant:uny lelant,C6
+St. Veep,50.36667,-4.61667,Saint Veep,PPL,exact,C6
+St. Veryan,50.21909,-4.92419,Veryan,PPL,variant:veryan,C6
+St. Wenn,50.4484,-4.86399,St Wenn,PPL,exact,C6
+St. Winnow,50.38333,-4.65,Saint Winnow,PPL,exact,C6
+Staverton,50.48353,-3.72205,Staverton,ADM4,exact,D4
+Steatton,50.83333,-4.51667,Stratton,PPL,fuzzy:stratton,C6
+Sticklepath,50.73636,-3.93073,Sticklepath,ADM4,exact,D4
+Stockleigh- English,50.84986,-3.64582,Stockleigh English,ADM4,exact,D4
+Stockleigh-English,50.84986,-3.64582,Stockleigh English,ADM4,exact,D4
+Stoke -Gabriel,50.40821,-3.61121,Stoke Gabriel,ADM4,exact,D4
+Stoke Fleming,50.33881,-3.61513,Stoke Fleming,ADM4,exact,D4
+Stoke- Climsl and,50.5489,-4.31158,Stokeclimsland,ADM3,variant:stokeclimsland,C6
+Stoke-Climsland,50.54734,-4.31678,Stoke Climsland,PPL,exact,C6
+Stoke-Damarel,50.38313,-4.15704,Stoke,PPL,variant:stoke,K4
+Stoke-Eivers,50.38313,-4.15704,Stoke,PPL,variant:stoke,K4
+Stoke-Fleming,50.33881,-3.61513,Stoke Fleming,ADM4,exact,D4
+Stoke-Gabriel,50.40821,-3.61121,Stoke Gabriel,ADM4,exact,D4
+Stoke-Rivers,51.10017,-3.9424,Stoke Rivers,ADM4,exact,D4
+Stokenham,50.25423,-3.67806,Stokenham,ADM4,exact,D4
+Stowford,50.65774,-4.23581,Stowford,ADM4,exact,D4
+Stratton,50.83333,-4.51667,Stratton,PPL,exact,C6
+Sutcombe,50.87514,-4.3506,Sutcombe,ADM4,exact,D4
+Sydenham,50.5720,-4.2600,Sydenham Damerel,manual,manual,D4
+Sydenham-Damarei,51.13131,-2.9824,Sydenham,PPLX,variant:sydenham,M3
+Sydenham-Damarel,50.5720,-4.2600,Sydenham Damerel,manual,manual,D4
+TYWARDREATH Priory,50.35766,-4.69342,Tywardreath,PPL,variant:tywardreath,C6
+Talaton,50.77832,-3.32069,Talaton,ADM4,exact,D4
+Tamerton-Foliot,50.42859,-4.15603,Tamerton Foliot,PPL,exact,K4
+Tamerton-Foltot,50.42859,-4.15603,Tamerton Foliot,PPL,fuzzy:tamerton foliot,K4
+Tavistock,50.55337,-4.1396,Tavistock,ADM4,exact,D4
+Tawstock,51.03871,-4.06105,Tawstock,ADM4,exact,D4
+Tedburn-St. Mary,50.73399,-3.68488,Tedburn St. Mary,ADM4,exact,D4
+Teigngrace,50.55489,-3.62418,Teigngrace,ADM4,exact,D4
+Tetcott,50.7413,-4.3503,Tetcott,ADM4,exact,D4
+Thelbridge,50.90011,-3.69545,Thelbridge,ADM4,exact,D4
+Thorverton,50.81845,-3.53596,Thorverton,ADM4,exact,D4
+Throwleigh,50.69136,-3.88858,Throwleigh,ADM4,exact,D4
+Thurlestone,50.27837,-3.85414,Thurlestone,ADM4,exact,D4
+Tintagel,50.66317,-4.75047,Tintagel,PPL,exact,C6
+Tiverton,50.91793,-3.4933,Tiverton,ADM4,exact,D4
+Tobrington,50.95309,-4.14401,Great Torrington,PPL,fuzzy:torrington,D4
+Torbrian,50.48939,-3.66389,Torbryan,PPL,fuzzy:torbryan,D4
+Torrington,50.95309,-4.14401,Great Torrington,PPL,exact,D4
+Totnes,50.42633,-3.6915,Totnes,ADM4,exact,D4
+Totnes Priory,50.42633,-3.6915,Totnes,ADM4,variant:totnes,D4
+Townstal,50.3540,-3.5940,Townstal Dartmouth,manual,manual,D4
+Tregony,50.26101,-4.93161,Tregony,ADM3,exact,C6
+Treneglos,50.66457,-4.53772,Treneglos,PPL,exact,C6
+Trentishoe,51.20793,-3.94958,Trentishoe,ADM4,exact,D4
+Trtjsham,50.62604,-3.62064,Trusham,ADM4,variant:trusham,D4
+Truro,50.26526,-5.05436,Truro,PPLA2,exact,C6
+Trusham,50.62604,-3.62064,Trusham,ADM4,exact,D4
+Ttverton,50.91793,-3.4933,Tiverton,ADM4,fuzzy:tiverton,D4
+Tywardreath,50.35766,-4.69342,Tywardreath,PPL,exact,C6
+Uffculme,50.89584,-3.30423,Uffculme,ADM4,exact,D4
+Umberleigh,50.99453,-3.9834,Umberleigh,PPL,exact,D4
+Uploman,50.94116,-3.40502,Uplowman,ADM4,fuzzy:uplowman,D4
+Uplyme,50.73782,-2.96231,Uplyme,ADM4,exact,D4
+Upottery,50.86694,-3.13402,Upottery,ADM4,exact,D4
+Upton Hellions,50.81227,-3.64208,Upton Hellions,ADM4,exact,D4
+Upton Pyne,50.76747,-3.54405,Upton Pyne,ADM4,exact,D4
+Upton-Pyne,50.76747,-3.54405,Upton Pyne,ADM4,exact,D4
+Veryan,50.21909,-4.92419,Veryan,PPL,exact,C6
+Vol ' Torrington,50.95309,-4.14401,Great Torrington,PPL,fuzzy:torrington,D4
+Walkhampton,50.5239,-4.03132,Walkhampton,ADM4,exact,D4
+Warkleigh,50.98972,-3.93556,Warkleigh,PPL,exact,D4
+Warleggan,50.49162,-4.60042,Warleggan,PPL,exact,C6
+Washfield,50.94025,-3.52975,Washfield,ADM4,exact,D4
+Washford,51.16083,-3.36194,Washford,PPL,exact,M3
+Washford-Pyne,50.88569,-3.69333,Washford Pyne,ADM4,exact,D4
+Wear-Gifford,50.97693,-4.17165,Weare Giffard,PPL,exact,D4
+Wembworthy,50.88504,-3.89781,Wembworthy,ADM4,exact,D4
+West Anstey,51.03863,-3.64656,West Anstey,ADM4,exact,D4
+West Buckland,51.0600,-3.9000,West Buckland near Swimbridge Devon,manual,manual,D4
+West Buckxand,50.97356,-3.1883,West Buckland,ADM4,fuzzy:west buckland,M3
+West Down,51.15921,-4.12596,West Down,ADM4,exact,D4
+West Putford,50.91808,-4.33747,West Putford,ADM4,exact,D4
+Westworlington,50.90702,-3.75092,West Worlington,PPL,fuzzy:west worlington,D4
+Whimple,50.76476,-3.35416,Whimple,ADM4,exact,D4
+Whitchurch,50.53914,-4.10522,Whitchurch,ADM4,exact,D4
+Whitstone,50.75947,-4.45862,Whitstone,PPL,exact,C6
+Whitstone (Devon),50.75947,-4.45862,Whitstone,PPL,variant:whitstone,C6
+Wid worthy,50.78303,-3.11366,Widworthy,ADM4,variant:widworthy,D4
+Widecombe,50.5762,-3.81221,Widecombe in the Moor,PPL,fuzzy:widdecombe,D4
+Widecombe-in-the-Moor,50.56317,-3.82944,Widecombe in the Moor,ADM4,exact,D4
+Widworthy,50.78303,-3.11366,Widworthy,ADM4,exact,D4
+Willand,50.88402,-3.37289,Willand,ADM4,exact,D4
+Winkleigh,50.86244,-3.9408,Winkleigh,ADM4,exact,D4
+Witheridge,50.92057,-3.69947,Witheridge,ADM4,exact,D4
+Wldworthy,50.78303,-3.11366,Widworthy,ADM4,variant:widworthy,D4
+Wlnkleigh,50.86244,-3.9408,Winkleigh,ADM4,fuzzy:winkleigh,D4
+Wlthiel,50.454,-4.82643,Withiel,PPL,variant:withiel,C6
+Wolfardisworthy,50.86953,-3.69227,Woolfardisworthy,ADM4,fuzzy:woolfardisworthy,D4
+Woodleigh,50.34048,-3.76422,Woodleigh,ADM4,exact,D4
+Woolfardis Worthy,50.86953,-3.69227,Woolfardisworthy,ADM4,variant:woolfardisworthy,D4
+Wyke-St. Mary,50.7480,-4.5010,Week St Mary,manual,manual,C6
+Xortham,51.05067,-4.22084,Northam,ADM4,variant:northam,D4
+Yarcombe,50.87714,-3.0801,Yarcombe,ADM4,exact,D4
+Yarnscombe,50.98536,-4.06515,Yarnscombe,ADM4,exact,D4
+Yealmpton,50.35368,-3.9942,Yealmpton,ADM4,exact,D4
+Zeal-Monachorum,50.81995,-3.83539,Zeal Monachorum,ADM4,exact,D4
+acobstowe,50.79404,-4.01716,Jacobstowe,ADM4,fuzzy:jacobstowe,D4
+b Landcross,50.993,-4.19303,Landcross,ADM4,fuzzy:landcross,D4
+b Newton1,50.44085,-4.6829,Newton,PPL,fuzzy:newton,C6
+b Witheridge,50.92057,-3.69947,Witheridge,ADM4,fuzzy:witheridge,D4
+f Duloe,50.38333,-4.48333,Duloe,PPLA3,fuzzy:duloe,C6
+f6°2L Broadwoodkelly,50.83749,-3.97125,Broadwoodkelly,ADM4,fuzzy:broadwoodkelly,D4
+gj Culmstock,50.92843,-3.28411,Culmstock,ADM4,fuzzy:culmstock,D4
+gjjj BUCKLAND-MONACHORUM,50.48483,-4.1156,Buckland Monachorum,ADM4,fuzzy:buckland monachorum,D4
+h Exeter,50.7236,-3.52751,Exeter,PPLA2,fuzzy:exeter,D4
+im Bridgerule,50.80102,-4.45005,Bridgerule,ADM4,fuzzy:bridgerule,D4
+jf°jj BROADHEMPSTON,50.48317,-3.69438,Broadhempston,ADM4,fuzzy:broadhempston,D4
+jgj Alverdiscott,51.00473,-4.11762,Alverdiscott,ADM4,fuzzy:alverdiscott,D4
+jj Crediton,50.78798,-3.6541,Crediton,ADM4,fuzzy:crediton,D4
+jj Stoke-in-Teignhead,50.52417,-3.52602,Stokeinteignhead,ADM4,fuzzy:stokeinteignhead,D4
+jjjj Heanton-Punchardon,51.09258,-4.13318,Heanton Punchardon,ADM4,fuzzy:heanton punchardon,D4
+k Exeter Cathedral,50.72258,-3.53062,Exeter Cathedral,CH,fuzzy:exeter cathedral,D4
+m Bampton,50.99694,-3.46691,Bampton,ADM4,fuzzy:bampton,D4
+m Exeter,50.7236,-3.52751,Exeter,PPLA2,fuzzy:exeter,D4
+mi Brampford-Speke,50.773,-3.52745,Brampford Speke,ADM4,fuzzy:brampford speke,D4
+mil Walkhampton,50.5239,-4.03132,Walkhampton,ADM4,fuzzy:walkhampton,D4
+n°L West Alvington,50.27142,-3.79605,West Alvington,ADM4,fuzzy:west alvington,D4
+t Cadbury,50.8375,-3.54504,Cadbury,ADM4,fuzzy:cadbury,D4

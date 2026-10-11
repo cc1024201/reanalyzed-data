@@ -1,0 +1,22 @@
+region,sites,samples,est,p_naive,p_cluster_t,p_mixed_slope,conv_slope,p_mixed_int,conv_int
+Baltic: East,21,129,0.299,0.005,0.063,0.02,True,0.004,False
+Baltic: South,28,275,0.378,0.0,0.002,0.004,True,0.0,False
+Czechia,9,52,0.198,0.37,0.629,0.181,False,,False
+England: Devon,13,46,0.101,0.592,0.549,0.599,False,0.588,False
+France: Brittany,15,93,0.206,0.273,0.442,0.481,False,0.267,False
+France: Central,15,65,-0.681,0.001,0.006,0.002,True,0.001,False
+France: Massif Central,12,77,-0.345,0.073,0.235,0.859,False,0.062,False
+France: Savoy,7,22,0.319,0.28,0.506,0.576,True,0.243,False
+Germany: North-West,14,66,-0.107,0.528,0.635,0.75,True,0.515,False
+Germany: South-West,17,224,-0.251,0.006,0.034,0.017,False,0.003,False
+Greece,9,36,-0.724,0.006,0.03,0.005,True,0.003,False
+Ireland,6,31,0.688,0.007,0.067,0.008,False,0.003,False
+Italy,4,15,-0.632,0.169,0.29,0.339,True,,False
+Norway,4,10,-0.844,0.052,0.18,0.031,True,,False
+Poland,12,79,0.532,0.001,0.011,0.011,False,0.001,False
+Portugal: North,4,42,-0.329,0.275,0.349,0.188,False,0.243,False
+Russia,4,18,0.925,0.027,0.086,0.109,True,,False
+Spain: Catalonia,4,34,0.409,0.167,0.129,0.108,False,0.155,False
+Spain: Central System,8,60,0.358,0.101,0.122,0.245,True,0.057,False
+Spain: North,7,53,0.352,0.123,0.268,0.208,True,0.115,False
+Sweden,19,101,-0.461,0.0,0.006,0.11,True,0.0,False

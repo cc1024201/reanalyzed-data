@@ -1,0 +1,6 @@
+*.xlsx
+gn/
+GB.zip
+frames/
+*.mp4
+__pycache__/
