@@ -26,5 +26,7 @@
  "sd_resid": 0.631,
  "power_swg": 0.2365,
  "power_2x_swg": 0.6775,
- "false_alarm_null": 0.0245
+ "false_alarm_null": 0.0245,
+ "pooled_power_swg": 0.249,
+ "pooled_false_alarm_null": 0.029
 }
