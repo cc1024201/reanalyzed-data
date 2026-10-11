@@ -21,6 +21,7 @@ Two witnesses from the same hills in Devon:
 | Place of institution, Nov 1348–Dec 1349 | Chudleigh 352 · Clyst 26 · Exeter 2 | `place_of_institution_nov48_dec49` |
 | Second outbreak | Oct 1361–Jul 1362: 161 institutions (≈2/month normal); excess ≈ 0.4 of 1348–49 (0.39–0.49 depending on window) | `second_wave` |
 | Pollen: regions with a clear cereal change, 1250–1350 vs 1351–1450 | 9 with a simple pooled test (p < 0.05); 5 clear under all three corrections for non-independent samples (site-clustered SEs with small-sample t; mixed model with random slope; mixed model with random intercept): shrank — France: Central, Germany: South-West, Greece; grew — Baltic: South, Poland | `pollen/mixed_results.csv` |
+| Detection simulation | If Devon's grain pollen had dropped as much as south-west Germany's (−0.25 SD), these 13 bogs sampled as they are (8 with one sample before and one after) show a clear drop in 24% of 2,000 runs; false alarms 2.5%. Variance components from a Devon fit with a boundary/convergence warning; dating error not modelled | `pollen/power_sim.py`, `power_sim.json` |
 | Devon pollen | change +0.10 SD (95% CI −0.26 to +0.46, 13 sites, clustered); power to detect a drop the size of south-west Germany's (−0.25 SD) ≈ 0.29 | `pollen/mixed.py` |
 
 Not a result of ours: England's 40–55% comes from Horrox, *The Black Death* (1994), p. 3, summarising several independent kinds of evidence.
@@ -50,6 +51,7 @@ python3 analyze.py    # -> feasibility_results.json, first_institution_1348_49.c
 cd ../pollen
 python3 reproduce.py  # paper's regional comparison
 python3 mixed.py      # pseudo-replication checks -> mixed_results.csv
+python3 power_sim.py  # detection simulation -> power_sim.json (~5 min)
 python3 sitelevel.py; python3 audit.py
 ```
 

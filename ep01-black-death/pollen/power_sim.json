@@ -1,0 +1,30 @@
+{
+ "devon_sites": 13,
+ "devon_samples": 46,
+ "devon_samples_per_site": {
+  "count": 13.0,
+  "mean": 3.54,
+  "std": 2.33,
+  "min": 2.0,
+  "25%": 2.0,
+  "50%": 2.0,
+  "75%": 4.0,
+  "max": 8.0
+ },
+ "sites_with_1_before_1_after": 8,
+ "swg_effect": -0.251,
+ "re_cov": [
+  [
+   0.0045,
+   -0.0055
+  ],
+  [
+   -0.0055,
+   0.0184
+  ]
+ ],
+ "sd_resid": 0.631,
+ "power_swg": 0.2365,
+ "power_2x_swg": 0.6775,
+ "false_alarm_null": 0.0245
+}
