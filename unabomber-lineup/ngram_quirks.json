@@ -1,0 +1,101 @@
+{
+ "analyse|en-US": {
+  "analyse": 1.4010229274155415e-06,
+  "Analyse": 6.379176642650026e-07,
+  "ANALYSE": 5.8354703428383694e-08,
+  "analyze": 1.2125322895210153e-05,
+  "Analyze": 8.841275324847139e-07,
+  "ANALYZE": 1.7246916974919748e-07
+ },
+ "analyse|en-GB": {
+  "analyse": 8.169112707042595e-06,
+  "Analyse": 6.777468181203753e-07,
+  "ANALYSE": 1.191498566135771e-07,
+  "analyze": 1.7060265841737878e-06,
+  "Analyze": 5.7638779834471386e-08,
+  "ANALYZE": 1.9262114194272218e-08
+ },
+ "licence|en-US": {
+  "licence": 7.814682767901196e-07,
+  "Licence": 1.4137861124543002e-07,
+  "LICENCE": 2.1284770083204087e-08,
+  "license": 3.617154844135821e-05,
+  "License": 4.984924561750421e-06,
+  "LICENSE": 1.5988896043731634e-06,
+  "LIcense": 2.332344387068197e-11
+ },
+ "licence|en-GB": {
+  "licence": 2.8719282082735073e-05,
+  "Licence": 2.9899671421145076e-06,
+  "LICENCE": 5.561971035534113e-07,
+  "license": 1.9975411129635745e-06,
+  "License": 2.249269196196425e-07,
+  "LICENSE": 3.0432485318079635e-08
+ },
+ "wilfully|en-US": {
+  "wilfully": 5.334638326936182e-07,
+  "Wilfully": 1.445921746437215e-08,
+  "WILFULLY": 3.1729050284581626e-09,
+  "willfully": 1.9127536489223966e-06,
+  "Willfully": 5.2756176179750234e-08,
+  "WILLFULLY": 8.971385053650002e-09
+ },
+ "wilfully|en-GB": {
+  "wilfully": 9.673564279803012e-07,
+  "Wilfully": 2.628453919474903e-08,
+  "WILFULLY": 2.641822959110922e-09,
+  "willfully": 6.118131272543519e-08,
+  "Willfully": 8.734730844600208e-10,
+  "WILLFULLY": 8.732299925886021e-11
+ },
+ "instalment|en-US": {
+  "instalment": 3.903471783816153e-07,
+  "Instalment": 8.039901612842361e-08,
+  "INSTALMENT": 2.606995212014377e-08,
+  "InstaLMENT": 1.1709912686943888e-11,
+  "installment": 5.0706897028094684e-06,
+  "Installment": 7.834504458514857e-07,
+  "INSTALLMENT": 1.3391660484802952e-07,
+  "INSTALLment": 4.8948214605480336e-11
+ },
+ "instalment|en-GB": {
+  "instalment": 1.936660911604749e-06,
+  "Instalment": 1.9924088362061482e-07,
+  "INSTALMENT": 2.74240147513948e-08,
+  "installment": 2.7337603168804574e-07,
+  "Installment": 3.2304992706540993e-08,
+  "INSTALLMENT": 4.757260863019752e-09
+ },
+ "eat your cake and have it|en-US": {
+  "eat your cake and have it": 2.966751047552755e-09,
+  "Eat Your Cake and Have It": 1.7152172817741934e-10,
+  "EAT YOUR CAKE AND HAVE IT": 7.192694436847652e-11,
+  "Eat your cake and have it": 7.088609266877513e-11,
+  "have your cake and eat it": 3.170035239836679e-08,
+  "Have Your Cake and Eat It": 2.335481625400563e-09,
+  "HAVE YOUR CAKE AND EAT IT": 9.366490230324251e-10,
+  "Have your cake and eat it": 8.125686197619946e-10,
+  "Have Your Cake and Eat it": 5.189863224004558e-10,
+  "Have Your Cake And Eat It": 2.2853474668238505e-10
+ },
+ "eat your cake and have it|en-GB": {
+  "eat your cake and have it": 4.068344515973676e-09,
+  "have your cake and eat it": 2.7983938019402125e-08,
+  "HAVE YOUR CAKE AND EAT IT": 1.08203556798286e-09,
+  "Have your cake and eat it": 7.510241082877054e-10,
+  "Have Your Cake And Eat It": 4.602281248408028e-10,
+  "Have Your Cake and Eat It": 4.2353378496647803e-10,
+  "Have Your Cake and Eat it": 3.78704520734083e-10
+ },
+ "cool-headed logician|en-US": {
+  "cool - headed": 2.2464778853387585e-08,
+  "Cool - headed": 9.065777989425428e-10,
+  "Cool - Headed": 2.690577138757362e-10,
+  "COOL - HEADED": 1.6487949814219655e-10
+ },
+ "cool-headed logician|en-GB": {
+  "cool - headed": 3.223986492516796e-08,
+  "Cool - headed": 1.293806529860493e-09,
+  "COOL - HEADED": 2.818220443337247e-11
+ }
+}

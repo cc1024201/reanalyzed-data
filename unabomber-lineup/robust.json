@@ -1,0 +1,1202 @@
+[
+{
+"N": 100,
+"CH": 1000,
+"seed": 0,
+"metric": "delta",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 8,
+"gap": -0.13771351877450583
+},
+{
+"N": 100,
+"CH": 1000,
+"seed": 0,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 6,
+"gap": -0.5309544244332296
+},
+{
+"N": 100,
+"CH": 1000,
+"seed": 1,
+"metric": "delta",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 8,
+"gap": -0.11952569470728519
+},
+{
+"N": 100,
+"CH": 1000,
+"seed": 1,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 5,
+"gap": -0.560230806794922
+},
+{
+"N": 100,
+"CH": 1000,
+"seed": 2,
+"metric": "delta",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 7,
+"gap": -0.12431711841388472
+},
+{
+"N": 100,
+"CH": 1000,
+"seed": 2,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 5,
+"gap": -0.5897172339969398
+},
+{
+"N": 100,
+"CH": 1000,
+"seed": 3,
+"metric": "delta",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 8,
+"gap": -0.10705650717217745
+},
+{
+"N": 100,
+"CH": 1000,
+"seed": 3,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 6,
+"gap": -0.4987818341607719
+},
+{
+"N": 100,
+"CH": 1000,
+"seed": 4,
+"metric": "delta",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 7,
+"gap": -0.12547065979557478
+},
+{
+"N": 100,
+"CH": 1000,
+"seed": 4,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 5,
+"gap": -0.5119502210824536
+},
+{
+"N": 100,
+"CH": 2000,
+"seed": 0,
+"metric": "delta",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 8,
+"gap": -0.08438034918623973
+},
+{
+"N": 100,
+"CH": 2000,
+"seed": 0,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 5,
+"gap": -0.5705087019460545
+},
+{
+"N": 100,
+"CH": 2000,
+"seed": 1,
+"metric": "delta",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 8,
+"gap": -0.06282179724307835
+},
+{
+"N": 100,
+"CH": 2000,
+"seed": 1,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 5,
+"gap": -0.5199050581807534
+},
+{
+"N": 100,
+"CH": 2000,
+"seed": 2,
+"metric": "delta",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 8,
+"gap": -0.1165849118628255
+},
+{
+"N": 100,
+"CH": 2000,
+"seed": 2,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 5,
+"gap": -0.5888151861258383
+},
+{
+"N": 100,
+"CH": 2000,
+"seed": 3,
+"metric": "delta",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 8,
+"gap": -0.08974841352469641
+},
+{
+"N": 100,
+"CH": 2000,
+"seed": 3,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 5,
+"gap": -0.582001426642719
+},
+{
+"N": 100,
+"CH": 2000,
+"seed": 4,
+"metric": "delta",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 8,
+"gap": -0.03310019459687169
+},
+{
+"N": 100,
+"CH": 2000,
+"seed": 4,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 5,
+"gap": -0.4943806907113262
+},
+{
+"N": 100,
+"CH": 3000,
+"seed": 0,
+"metric": "delta",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 8,
+"gap": -0.052232845873648216
+},
+{
+"N": 100,
+"CH": 3000,
+"seed": 0,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 5,
+"gap": -0.5360400190600584
+},
+{
+"N": 100,
+"CH": 3000,
+"seed": 1,
+"metric": "delta",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 8,
+"gap": -0.06614200595068749
+},
+{
+"N": 100,
+"CH": 3000,
+"seed": 1,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 5,
+"gap": -0.5482858746188113
+},
+{
+"N": 100,
+"CH": 3000,
+"seed": 2,
+"metric": "delta",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 8,
+"gap": -0.09558734141339059
+},
+{
+"N": 100,
+"CH": 3000,
+"seed": 2,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 5,
+"gap": -0.5996141555714322
+},
+{
+"N": 100,
+"CH": 3000,
+"seed": 3,
+"metric": "delta",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 8,
+"gap": -0.05679240272809571
+},
+{
+"N": 100,
+"CH": 3000,
+"seed": 3,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 5,
+"gap": -0.5413227262340385
+},
+{
+"N": 100,
+"CH": 3000,
+"seed": 4,
+"metric": "delta",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 8,
+"gap": -0.06919448662041751
+},
+{
+"N": 100,
+"CH": 3000,
+"seed": 4,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 5,
+"gap": -0.5491106287222235
+},
+{
+"N": 200,
+"CH": 1000,
+"seed": 0,
+"metric": "delta",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 10,
+"gap": -0.028381313892081244
+},
+{
+"N": 200,
+"CH": 1000,
+"seed": 0,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 10,
+"gap": -0.27078285540590535
+},
+{
+"N": 200,
+"CH": 1000,
+"seed": 1,
+"metric": "delta",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 10,
+"gap": -0.007186366672431345
+},
+{
+"N": 200,
+"CH": 1000,
+"seed": 1,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 6,
+"gap": -0.40529830349694446
+},
+{
+"N": 200,
+"CH": 1000,
+"seed": 2,
+"metric": "delta",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 9,
+"gap": -0.03261431544092146
+},
+{
+"N": 200,
+"CH": 1000,
+"seed": 2,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 7,
+"gap": -0.3331096267586336
+},
+{
+"N": 200,
+"CH": 1000,
+"seed": 3,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 2,
+"rank_letters": 10,
+"gap": 0.022690111131667443
+},
+{
+"N": 200,
+"CH": 1000,
+"seed": 3,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 6,
+"gap": -0.3630354764169622
+},
+{
+"N": 200,
+"CH": 1000,
+"seed": 4,
+"metric": "delta",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 7,
+"gap": -0.04295447991344775
+},
+{
+"N": 200,
+"CH": 1000,
+"seed": 4,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 6,
+"gap": -0.41447442639067966
+},
+{
+"N": 200,
+"CH": 2000,
+"seed": 0,
+"metric": "delta",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 10,
+"gap": -0.0004318010519990908
+},
+{
+"N": 200,
+"CH": 2000,
+"seed": 0,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 5,
+"gap": -0.33629115299205004
+},
+{
+"N": 200,
+"CH": 2000,
+"seed": 1,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 2,
+"rank_letters": 10,
+"gap": 0.0570552341602242
+},
+{
+"N": 200,
+"CH": 2000,
+"seed": 1,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 7,
+"gap": -0.2109366440347732
+},
+{
+"N": 200,
+"CH": 2000,
+"seed": 2,
+"metric": "delta",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 10,
+"gap": -0.03357227333163073
+},
+{
+"N": 200,
+"CH": 2000,
+"seed": 2,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 6,
+"gap": -0.3780147820735727
+},
+{
+"N": 200,
+"CH": 2000,
+"seed": 3,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 2,
+"rank_letters": 10,
+"gap": 0.025104907027918167
+},
+{
+"N": 200,
+"CH": 2000,
+"seed": 3,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 6,
+"gap": -0.2547838485711708
+},
+{
+"N": 200,
+"CH": 2000,
+"seed": 4,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 2,
+"rank_letters": 10,
+"gap": 0.10113846094624271
+},
+{
+"N": 200,
+"CH": 2000,
+"seed": 4,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 6,
+"gap": -0.15563349883929958
+},
+{
+"N": 200,
+"CH": 3000,
+"seed": 0,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 2,
+"rank_letters": 10,
+"gap": 0.030069602880804614
+},
+{
+"N": 200,
+"CH": 3000,
+"seed": 0,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 5,
+"gap": -0.30852611224219023
+},
+{
+"N": 200,
+"CH": 3000,
+"seed": 1,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 2,
+"rank_letters": 10,
+"gap": 0.02826370888478546
+},
+{
+"N": 200,
+"CH": 3000,
+"seed": 1,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 6,
+"gap": -0.27936256252766223
+},
+{
+"N": 200,
+"CH": 3000,
+"seed": 2,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 2,
+"rank_letters": 10,
+"gap": 0.02990450906688315
+},
+{
+"N": 200,
+"CH": 3000,
+"seed": 2,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 6,
+"gap": -0.29447784122908865
+},
+{
+"N": 200,
+"CH": 3000,
+"seed": 3,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 2,
+"rank_letters": 10,
+"gap": 0.03866886273957056
+},
+{
+"N": 200,
+"CH": 3000,
+"seed": 3,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 7,
+"gap": -0.277034529760587
+},
+{
+"N": 200,
+"CH": 3000,
+"seed": 4,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 2,
+"rank_letters": 10,
+"gap": 0.041043704634703033
+},
+{
+"N": 200,
+"CH": 3000,
+"seed": 4,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 5,
+"gap": -0.2952416609210031
+},
+{
+"N": 300,
+"CH": 1000,
+"seed": 0,
+"metric": "delta",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 10,
+"gap": -0.03133947052226501
+},
+{
+"N": 300,
+"CH": 1000,
+"seed": 0,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 9,
+"gap": -0.34515727378644057
+},
+{
+"N": 300,
+"CH": 1000,
+"seed": 1,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 2,
+"rank_letters": 10,
+"gap": 0.006164923961880146
+},
+{
+"N": 300,
+"CH": 1000,
+"seed": 1,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 6,
+"gap": -0.3310189234707594
+},
+{
+"N": 300,
+"CH": 1000,
+"seed": 2,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 3,
+"rank_letters": 8,
+"gap": 0.006526398242778163
+},
+{
+"N": 300,
+"CH": 1000,
+"seed": 2,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 7,
+"gap": -0.37511171366268065
+},
+{
+"N": 300,
+"CH": 1000,
+"seed": 3,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 2,
+"rank_letters": 10,
+"gap": 0.0618535173882812
+},
+{
+"N": 300,
+"CH": 1000,
+"seed": 3,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 6,
+"gap": -0.2933695357706588
+},
+{
+"N": 300,
+"CH": 1000,
+"seed": 4,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 2,
+"rank_letters": 7,
+"gap": 0.01215016023125962
+},
+{
+"N": 300,
+"CH": 1000,
+"seed": 4,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 6,
+"gap": -0.30644834173824226
+},
+{
+"N": 300,
+"CH": 2000,
+"seed": 0,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 2,
+"rank_letters": 9,
+"gap": 0.06498511752131556
+},
+{
+"N": 300,
+"CH": 2000,
+"seed": 0,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 8,
+"gap": -0.31698675066295345
+},
+{
+"N": 300,
+"CH": 2000,
+"seed": 1,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 2,
+"rank_letters": 9,
+"gap": 0.04817427662718354
+},
+{
+"N": 300,
+"CH": 2000,
+"seed": 1,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 7,
+"gap": -0.32498482372539844
+},
+{
+"N": 300,
+"CH": 2000,
+"seed": 2,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 2,
+"rank_letters": 8,
+"gap": 0.02027519748524089
+},
+{
+"N": 300,
+"CH": 2000,
+"seed": 2,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 7,
+"gap": -0.3446371960514859
+},
+{
+"N": 300,
+"CH": 2000,
+"seed": 3,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 2,
+"rank_letters": 10,
+"gap": 0.06434587524997892
+},
+{
+"N": 300,
+"CH": 2000,
+"seed": 3,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 6,
+"gap": -0.30002745320923235
+},
+{
+"N": 300,
+"CH": 2000,
+"seed": 4,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 2,
+"rank_letters": 10,
+"gap": 0.05955627876572386
+},
+{
+"N": 300,
+"CH": 2000,
+"seed": 4,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 6,
+"gap": -0.3134410045096714
+},
+{
+"N": 300,
+"CH": 3000,
+"seed": 0,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 3,
+"rank_letters": 9,
+"gap": 0.06554296297283116
+},
+{
+"N": 300,
+"CH": 3000,
+"seed": 0,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 6,
+"gap": -0.31347282910480995
+},
+{
+"N": 300,
+"CH": 3000,
+"seed": 1,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 3,
+"rank_letters": 9,
+"gap": 0.07620880289337943
+},
+{
+"N": 300,
+"CH": 3000,
+"seed": 1,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 6,
+"gap": -0.29978765735080154
+},
+{
+"N": 300,
+"CH": 3000,
+"seed": 2,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 2,
+"rank_letters": 9,
+"gap": 0.07982852302965096
+},
+{
+"N": 300,
+"CH": 3000,
+"seed": 2,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 7,
+"gap": -0.30360342743649493
+},
+{
+"N": 300,
+"CH": 3000,
+"seed": 3,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 3,
+"rank_letters": 9,
+"gap": 0.06841275785284283
+},
+{
+"N": 300,
+"CH": 3000,
+"seed": 3,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 7,
+"gap": -0.3099052684778163
+},
+{
+"N": 300,
+"CH": 3000,
+"seed": 4,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 2,
+"rank_letters": 10,
+"gap": 0.08548825727772513
+},
+{
+"N": 300,
+"CH": 3000,
+"seed": 4,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 7,
+"gap": -0.2815462138511234
+},
+{
+"N": 500,
+"CH": 1000,
+"seed": 0,
+"metric": "delta",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 10,
+"gap": -0.0011255679863497955
+},
+{
+"N": 500,
+"CH": 1000,
+"seed": 0,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 10,
+"gap": -0.3539046388453207
+},
+{
+"N": 500,
+"CH": 1000,
+"seed": 1,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 3,
+"rank_letters": 10,
+"gap": 0.06876631442940177
+},
+{
+"N": 500,
+"CH": 1000,
+"seed": 1,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 8,
+"gap": -0.31774376917287955
+},
+{
+"N": 500,
+"CH": 1000,
+"seed": 2,
+"metric": "delta",
+"first": "Berry",
+"rank_1971": 2,
+"rank_letters": 9,
+"gap": -0.00015886991815238207
+},
+{
+"N": 500,
+"CH": 1000,
+"seed": 2,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 8,
+"gap": -0.3895923145282688
+},
+{
+"N": 500,
+"CH": 1000,
+"seed": 3,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 2,
+"rank_letters": 9,
+"gap": 0.07537063033959775
+},
+{
+"N": 500,
+"CH": 1000,
+"seed": 3,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 7,
+"gap": -0.295288182261483
+},
+{
+"N": 500,
+"CH": 1000,
+"seed": 4,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 2,
+"rank_letters": 8,
+"gap": 0.010390950292012436
+},
+{
+"N": 500,
+"CH": 1000,
+"seed": 4,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 8,
+"gap": -0.3565287328192512
+},
+{
+"N": 500,
+"CH": 2000,
+"seed": 0,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 3,
+"rank_letters": 9,
+"gap": 0.07155252827341939
+},
+{
+"N": 500,
+"CH": 2000,
+"seed": 0,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 8,
+"gap": -0.3550861063809826
+},
+{
+"N": 500,
+"CH": 2000,
+"seed": 1,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 3,
+"rank_letters": 10,
+"gap": 0.08164606927466535
+},
+{
+"N": 500,
+"CH": 2000,
+"seed": 1,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 7,
+"gap": -0.3548194983959444
+},
+{
+"N": 500,
+"CH": 2000,
+"seed": 2,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 3,
+"rank_letters": 9,
+"gap": 0.05983090521090147
+},
+{
+"N": 500,
+"CH": 2000,
+"seed": 2,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 7,
+"gap": -0.3365098005070447
+},
+{
+"N": 500,
+"CH": 2000,
+"seed": 3,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 3,
+"rank_letters": 9,
+"gap": 0.09638179206679909
+},
+{
+"N": 500,
+"CH": 2000,
+"seed": 3,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 6,
+"gap": -0.3119283733768366
+},
+{
+"N": 500,
+"CH": 2000,
+"seed": 4,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 3,
+"rank_letters": 9,
+"gap": 0.11191133577832989
+},
+{
+"N": 500,
+"CH": 2000,
+"seed": 4,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 7,
+"gap": -0.31543686884345246
+},
+{
+"N": 500,
+"CH": 3000,
+"seed": 0,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 3,
+"rank_letters": 10,
+"gap": 0.12114690618224529
+},
+{
+"N": 500,
+"CH": 3000,
+"seed": 0,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 7,
+"gap": -0.3157604493697226
+},
+{
+"N": 500,
+"CH": 3000,
+"seed": 1,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 3,
+"rank_letters": 9,
+"gap": 0.10864826564296652
+},
+{
+"N": 500,
+"CH": 3000,
+"seed": 1,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 7,
+"gap": -0.323668975447874
+},
+{
+"N": 500,
+"CH": 3000,
+"seed": 2,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 3,
+"rank_letters": 10,
+"gap": 0.11068326269963386
+},
+{
+"N": 500,
+"CH": 3000,
+"seed": 2,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 7,
+"gap": -0.31062330986173353
+},
+{
+"N": 500,
+"CH": 3000,
+"seed": 3,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 3,
+"rank_letters": 9,
+"gap": 0.10595406922268814
+},
+{
+"N": 500,
+"CH": 3000,
+"seed": 3,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 6,
+"gap": -0.31883622780659854
+},
+{
+"N": 500,
+"CH": 3000,
+"seed": 4,
+"metric": "delta",
+"first": "Goodman",
+"rank_1971": 3,
+"rank_letters": 9,
+"gap": 0.11369373036400451
+},
+{
+"N": 500,
+"CH": 3000,
+"seed": 4,
+"metric": "cosine",
+"first": "K-1971",
+"rank_1971": 1,
+"rank_letters": 7,
+"gap": -0.30519530725631533
+}
+]

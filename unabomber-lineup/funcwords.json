@@ -1,0 +1,722 @@
+[
+{
+"with1971": false,
+"N": 50,
+"CH": 1000,
+"seed": 0,
+"metric": "delta",
+"first": "Goodman",
+"rank_letters": 5,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 50,
+"CH": 1000,
+"seed": 0,
+"metric": "cosine",
+"first": "Goodman",
+"rank_letters": 5,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 50,
+"CH": 1000,
+"seed": 1,
+"metric": "delta",
+"first": "Berry",
+"rank_letters": 5,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 50,
+"CH": 1000,
+"seed": 1,
+"metric": "cosine",
+"first": "Berry",
+"rank_letters": 4,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 50,
+"CH": 1000,
+"seed": 2,
+"metric": "delta",
+"first": "Berry",
+"rank_letters": 4,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 50,
+"CH": 1000,
+"seed": 2,
+"metric": "cosine",
+"first": "Berry",
+"rank_letters": 4,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 50,
+"CH": 2000,
+"seed": 0,
+"metric": "delta",
+"first": "Goodman",
+"rank_letters": 4,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 50,
+"CH": 2000,
+"seed": 0,
+"metric": "cosine",
+"first": "Goodman",
+"rank_letters": 4,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 50,
+"CH": 2000,
+"seed": 1,
+"metric": "delta",
+"first": "Goodman",
+"rank_letters": 4,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 50,
+"CH": 2000,
+"seed": 1,
+"metric": "cosine",
+"first": "Berry",
+"rank_letters": 4,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 50,
+"CH": 2000,
+"seed": 2,
+"metric": "delta",
+"first": "Goodman",
+"rank_letters": 4,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 50,
+"CH": 2000,
+"seed": 2,
+"metric": "cosine",
+"first": "Goodman",
+"rank_letters": 4,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 100,
+"CH": 1000,
+"seed": 0,
+"metric": "delta",
+"first": "Goodman",
+"rank_letters": 8,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 100,
+"CH": 1000,
+"seed": 0,
+"metric": "cosine",
+"first": "Postman",
+"rank_letters": 5,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 100,
+"CH": 1000,
+"seed": 1,
+"metric": "delta",
+"first": "Berry",
+"rank_letters": 9,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 100,
+"CH": 1000,
+"seed": 1,
+"metric": "cosine",
+"first": "Berry",
+"rank_letters": 4,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 100,
+"CH": 1000,
+"seed": 2,
+"metric": "delta",
+"first": "Berry",
+"rank_letters": 6,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 100,
+"CH": 1000,
+"seed": 2,
+"metric": "cosine",
+"first": "Berry",
+"rank_letters": 4,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 100,
+"CH": 2000,
+"seed": 0,
+"metric": "delta",
+"first": "Goodman",
+"rank_letters": 7,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 100,
+"CH": 2000,
+"seed": 0,
+"metric": "cosine",
+"first": "Postman",
+"rank_letters": 4,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 100,
+"CH": 2000,
+"seed": 1,
+"metric": "delta",
+"first": "Goodman",
+"rank_letters": 7,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 100,
+"CH": 2000,
+"seed": 1,
+"metric": "cosine",
+"first": "Postman",
+"rank_letters": 4,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 100,
+"CH": 2000,
+"seed": 2,
+"metric": "delta",
+"first": "Goodman",
+"rank_letters": 7,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 100,
+"CH": 2000,
+"seed": 2,
+"metric": "cosine",
+"first": "Berry",
+"rank_letters": 4,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 150,
+"CH": 1000,
+"seed": 0,
+"metric": "delta",
+"first": "Goodman",
+"rank_letters": 8,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 150,
+"CH": 1000,
+"seed": 0,
+"metric": "cosine",
+"first": "Postman",
+"rank_letters": 5,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 150,
+"CH": 1000,
+"seed": 1,
+"metric": "delta",
+"first": "Berry",
+"rank_letters": 9,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 150,
+"CH": 1000,
+"seed": 1,
+"metric": "cosine",
+"first": "Berry",
+"rank_letters": 4,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 150,
+"CH": 1000,
+"seed": 2,
+"metric": "delta",
+"first": "Berry",
+"rank_letters": 6,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 150,
+"CH": 1000,
+"seed": 2,
+"metric": "cosine",
+"first": "Berry",
+"rank_letters": 4,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 150,
+"CH": 2000,
+"seed": 0,
+"metric": "delta",
+"first": "Goodman",
+"rank_letters": 7,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 150,
+"CH": 2000,
+"seed": 0,
+"metric": "cosine",
+"first": "Postman",
+"rank_letters": 4,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 150,
+"CH": 2000,
+"seed": 1,
+"metric": "delta",
+"first": "Goodman",
+"rank_letters": 7,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 150,
+"CH": 2000,
+"seed": 1,
+"metric": "cosine",
+"first": "Berry",
+"rank_letters": 4,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 150,
+"CH": 2000,
+"seed": 2,
+"metric": "delta",
+"first": "Goodman",
+"rank_letters": 7,
+"rank_1971": null
+},
+{
+"with1971": false,
+"N": 150,
+"CH": 2000,
+"seed": 2,
+"metric": "cosine",
+"first": "Postman",
+"rank_letters": 4,
+"rank_1971": null
+},
+{
+"with1971": true,
+"N": 50,
+"CH": 1000,
+"seed": 0,
+"metric": "delta",
+"first": "Goodman",
+"rank_letters": 5,
+"rank_1971": 3
+},
+{
+"with1971": true,
+"N": 50,
+"CH": 1000,
+"seed": 0,
+"metric": "cosine",
+"first": "K-1971",
+"rank_letters": 6,
+"rank_1971": 1
+},
+{
+"with1971": true,
+"N": 50,
+"CH": 1000,
+"seed": 1,
+"metric": "delta",
+"first": "Berry",
+"rank_letters": 6,
+"rank_1971": 4
+},
+{
+"with1971": true,
+"N": 50,
+"CH": 1000,
+"seed": 1,
+"metric": "cosine",
+"first": "K-1971",
+"rank_letters": 5,
+"rank_1971": 1
+},
+{
+"with1971": true,
+"N": 50,
+"CH": 1000,
+"seed": 2,
+"metric": "delta",
+"first": "Berry",
+"rank_letters": 5,
+"rank_1971": 4
+},
+{
+"with1971": true,
+"N": 50,
+"CH": 1000,
+"seed": 2,
+"metric": "cosine",
+"first": "K-1971",
+"rank_letters": 5,
+"rank_1971": 1
+},
+{
+"with1971": true,
+"N": 50,
+"CH": 2000,
+"seed": 0,
+"metric": "delta",
+"first": "Goodman",
+"rank_letters": 5,
+"rank_1971": 4
+},
+{
+"with1971": true,
+"N": 50,
+"CH": 2000,
+"seed": 0,
+"metric": "cosine",
+"first": "K-1971",
+"rank_letters": 5,
+"rank_1971": 1
+},
+{
+"with1971": true,
+"N": 50,
+"CH": 2000,
+"seed": 1,
+"metric": "delta",
+"first": "Goodman",
+"rank_letters": 5,
+"rank_1971": 4
+},
+{
+"with1971": true,
+"N": 50,
+"CH": 2000,
+"seed": 1,
+"metric": "cosine",
+"first": "K-1971",
+"rank_letters": 5,
+"rank_1971": 1
+},
+{
+"with1971": true,
+"N": 50,
+"CH": 2000,
+"seed": 2,
+"metric": "delta",
+"first": "Goodman",
+"rank_letters": 5,
+"rank_1971": 4
+},
+{
+"with1971": true,
+"N": 50,
+"CH": 2000,
+"seed": 2,
+"metric": "cosine",
+"first": "K-1971",
+"rank_letters": 5,
+"rank_1971": 1
+},
+{
+"with1971": true,
+"N": 100,
+"CH": 1000,
+"seed": 0,
+"metric": "delta",
+"first": "K-1971",
+"rank_letters": 9,
+"rank_1971": 1
+},
+{
+"with1971": true,
+"N": 100,
+"CH": 1000,
+"seed": 0,
+"metric": "cosine",
+"first": "K-1971",
+"rank_letters": 6,
+"rank_1971": 1
+},
+{
+"with1971": true,
+"N": 100,
+"CH": 1000,
+"seed": 1,
+"metric": "delta",
+"first": "K-1971",
+"rank_letters": 10,
+"rank_1971": 1
+},
+{
+"with1971": true,
+"N": 100,
+"CH": 1000,
+"seed": 1,
+"metric": "cosine",
+"first": "K-1971",
+"rank_letters": 5,
+"rank_1971": 1
+},
+{
+"with1971": true,
+"N": 100,
+"CH": 1000,
+"seed": 2,
+"metric": "delta",
+"first": "Berry",
+"rank_letters": 7,
+"rank_1971": 2
+},
+{
+"with1971": true,
+"N": 100,
+"CH": 1000,
+"seed": 2,
+"metric": "cosine",
+"first": "K-1971",
+"rank_letters": 5,
+"rank_1971": 1
+},
+{
+"with1971": true,
+"N": 100,
+"CH": 2000,
+"seed": 0,
+"metric": "delta",
+"first": "Goodman",
+"rank_letters": 8,
+"rank_1971": 2
+},
+{
+"with1971": true,
+"N": 100,
+"CH": 2000,
+"seed": 0,
+"metric": "cosine",
+"first": "K-1971",
+"rank_letters": 5,
+"rank_1971": 1
+},
+{
+"with1971": true,
+"N": 100,
+"CH": 2000,
+"seed": 1,
+"metric": "delta",
+"first": "K-1971",
+"rank_letters": 8,
+"rank_1971": 1
+},
+{
+"with1971": true,
+"N": 100,
+"CH": 2000,
+"seed": 1,
+"metric": "cosine",
+"first": "K-1971",
+"rank_letters": 5,
+"rank_1971": 1
+},
+{
+"with1971": true,
+"N": 100,
+"CH": 2000,
+"seed": 2,
+"metric": "delta",
+"first": "K-1971",
+"rank_letters": 8,
+"rank_1971": 1
+},
+{
+"with1971": true,
+"N": 100,
+"CH": 2000,
+"seed": 2,
+"metric": "cosine",
+"first": "K-1971",
+"rank_letters": 5,
+"rank_1971": 1
+},
+{
+"with1971": true,
+"N": 150,
+"CH": 1000,
+"seed": 0,
+"metric": "delta",
+"first": "K-1971",
+"rank_letters": 9,
+"rank_1971": 1
+},
+{
+"with1971": true,
+"N": 150,
+"CH": 1000,
+"seed": 0,
+"metric": "cosine",
+"first": "K-1971",
+"rank_letters": 6,
+"rank_1971": 1
+},
+{
+"with1971": true,
+"N": 150,
+"CH": 1000,
+"seed": 1,
+"metric": "delta",
+"first": "K-1971",
+"rank_letters": 10,
+"rank_1971": 1
+},
+{
+"with1971": true,
+"N": 150,
+"CH": 1000,
+"seed": 1,
+"metric": "cosine",
+"first": "K-1971",
+"rank_letters": 5,
+"rank_1971": 1
+},
+{
+"with1971": true,
+"N": 150,
+"CH": 1000,
+"seed": 2,
+"metric": "delta",
+"first": "Berry",
+"rank_letters": 7,
+"rank_1971": 2
+},
+{
+"with1971": true,
+"N": 150,
+"CH": 1000,
+"seed": 2,
+"metric": "cosine",
+"first": "K-1971",
+"rank_letters": 5,
+"rank_1971": 1
+},
+{
+"with1971": true,
+"N": 150,
+"CH": 2000,
+"seed": 0,
+"metric": "delta",
+"first": "Goodman",
+"rank_letters": 8,
+"rank_1971": 2
+},
+{
+"with1971": true,
+"N": 150,
+"CH": 2000,
+"seed": 0,
+"metric": "cosine",
+"first": "K-1971",
+"rank_letters": 5,
+"rank_1971": 1
+},
+{
+"with1971": true,
+"N": 150,
+"CH": 2000,
+"seed": 1,
+"metric": "delta",
+"first": "Goodman",
+"rank_letters": 9,
+"rank_1971": 2
+},
+{
+"with1971": true,
+"N": 150,
+"CH": 2000,
+"seed": 1,
+"metric": "cosine",
+"first": "K-1971",
+"rank_letters": 5,
+"rank_1971": 1
+},
+{
+"with1971": true,
+"N": 150,
+"CH": 2000,
+"seed": 2,
+"metric": "delta",
+"first": "K-1971",
+"rank_letters": 8,
+"rank_1971": 1
+},
+{
+"with1971": true,
+"N": 150,
+"CH": 2000,
+"seed": 2,
+"metric": "cosine",
+"first": "K-1971",
+"rank_letters": 5,
+"rank_1971": 1
+}
+]
